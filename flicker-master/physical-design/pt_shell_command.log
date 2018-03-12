@@ -1,0 +1,81 @@
+#@ # 
+#@ # Running pt_shell Version F-2011.12-SP3-3 for amd64 -- Jan 09, 2013
+#@ # Date:   Tue Apr 14 20:11:10 2015
+#@ # Run by: aa2264@brg-02.ece.cornell.edu
+#@ 
+
+source /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-pt-2011.12-SP3-3/admin/setup/.synopsys_pt.setup
+#@ #
+#@ # .synopsys_pt.setup: Initialization File for PrimeTime
+#@ #
+#@ 
+#@ 
+#@ #
+#@ # Enable stack trace output on fatal.  Not available for all architectures.
+#@ #
+#@ if { $sh_arch == "sparcOS5" || $sh_arch == "hpux10" ||      $sh_arch == "hp32" || $sh_arch == "linux" } {
+#@   set_unix_variable SYNOPSYS_TRACE ""
+#@ }
+#@ 
+#@ #
+#@ # Variable settings
+#@ #
+#@ 
+#@ #
+#@ # Synopsys strongly recommends that you use new variable message
+#@ # tracing for debugging purposes only.
+#@ #
+#@ set sh_new_variable_message true
+#@ 
+#@ #
+#@ # Synopsys strongly recommends that you uncomment the following command
+#@ # in order to set sh_command_abbrev_mode to the value "Command-Line-Only".
+#@ # Command abbreviation is intended as an interactive convenience.  Using
+#@ # abbreviations in scripts can cause commands to fail in subsequent releases.
+#@ # 
+#@ #set sh_command_abbrev_mode "Command-Line-Only"
+#@ 
+#@ #
+#@ # Some useful aliases
+#@ #
+#@ alias list_commands		help
+#@ alias report_constraints	report_constraint
+#@ alias report_clocks		report_clock
+#@ 
+#@ #
+#@ # The alias for get_clock was added when get_clock_network_objects
+#@ # was introduced, as it conflicts with get_clocks (and get_clock is a
+#@ # typical abbreviation for get_clocks)
+#@ #
+#@ alias get_clock get_clocks
+#@ 
+#@ 
+#@ #
+#@ #
+#@ # The alias of q to quit is commented out.  Remove the comment 
+#@ # character if you want this alias.  Some users find that having 
+#@ # this particular alias causes problems when mixed with page-mode
+#@ # for reports - an accidental repeated 'q' not only cancels the
+#@ # output but exits the tool.
+#@ #
+#@ #alias q quit
+#@ 
+#@ # -- End source /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-pt-2011.12-SP3-3/admin/setup/.synopsys_pt.setup
+
+alias "pt_shell>" ""
+pt_shell> set stdcells_home /research/brg/install/bare-pkgs/noarch/synopsys-90nm/toolflow
+pt_shell> set search_path "$stdcells_home"
+pt_shell> set target_library "cells.db"
+pt_shell> set link_path "* $target_library"
+pt_shell> set power_enable_analysis "true"
+read_verilog "./FABSCALAR.v"
+current_design "FABSCALAR"
+link
+set power_analysis_mode "time_based"
+read_vcd "./dump.vcd"
+pt_shell> report_switching_activity -list_not_annotated
+read_parasitics -increment -format sbpf "./FABSCALAR.sbpf.max"
+read_parasitics -increment -format sbpf   { {./FABSCALAR.sbpf.max} }
+check_power
+pl_dump -stop_server
+update_power

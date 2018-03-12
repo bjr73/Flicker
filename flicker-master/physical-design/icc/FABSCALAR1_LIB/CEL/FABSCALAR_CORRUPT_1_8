@@ -1,0 +1,5 @@
+set_object_boundary -boundary {  { 202.8000 860.8800 } { 514.8000 860.8800 } { 514.8000 437.5200 } { 202.8000 437.5200 } } [get_plan_groups { decode } ]
+set_object_boundary -boundary {  { 30.0000 860.8800 } { 202.8000 860.8800 } { 202.8000 437.5200 } { 30.0000 437.5200 } } [get_plan_groups { fs1 } ]
+set_object_boundary -boundary {  { 30.0000 437.5200 } { 358.0000 437.5200 } { 358.0000 31.4400 } { 30.0000 31.4400 } } [get_plan_groups { fs2 } ]
+set_object_boundary -boundary {  { 514.8000 860.8800 } { 863.9200 860.8800 } { 863.9200 420.2400 } { 514.8000 420.2400 } } [get_plan_groups { execute } ]
+

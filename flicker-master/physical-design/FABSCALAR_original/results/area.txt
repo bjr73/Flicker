@@ -1,0 +1,31 @@
+Warning: Design 'FABSCALAR' has '12' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : area
+Design : FABSCALAR
+Version: F-2011.09-SP3
+Date   : Thu Apr  9 13:01:20 2015
+****************************************
+
+Library(s) Used:
+
+    saed90nm_typ (File: /research/brg/install/bare-pkgs/noarch/synopsys-90nm/toolflow/cells.db)
+
+Number of ports:                          324
+Number of nets:                         12279
+Number of cells:                           39
+Number of combinational cells:             18
+Number of sequential cells:                 0
+Number of macros:                           0
+Number of buf/inv:                          6
+Number of references:                      29
+
+Combinational area:       909054.263328
+Noncombinational area:    329820.362213
+Net Interconnect area:    196286.097941
+
+Total cell area:          1238874.625541
+Total area:               1435160.723482
+
+Information: This design contains black box (unknown) components. (RPT-8)
+1

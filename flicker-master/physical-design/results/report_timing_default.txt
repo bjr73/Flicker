@@ -1,0 +1,240 @@
+Warning: Design 'FABSCALAR' has '13' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : FABSCALAR
+Version: F-2011.09-SP3
+Date   : Mon Apr  6 20:43:32 2015
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: TYPICAL   Library: saed90nm_typ
+Wire Load Model Mode: enclosed
+
+  Startpoint: agenLsu/exePacket3_reg[41]
+              (rising edge-triggered flip-flop clocked by clock)
+  Endpoint: writebk/ldViolationPacket_reg[1]
+            (rising edge-triggered flip-flop clocked by clock)
+  Path Group: clock
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  FABSCALAR          2000000               saed90nm_typ
+  LSU                540000                saed90nm_typ
+  WriteBack          16000                 saed90nm_typ
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clock (rise edge)                               0.0000     0.0000
+  clock network delay (ideal)                           0.0000     0.0000
+  agenLsu/exePacket3_reg[41]/CLK (DFFX1)                0.0000 #   0.0000 r
+  agenLsu/exePacket3_reg[41]/Q (DFFX1)                  0.2000     0.2000 f
+  agenLsu/agenPacket0_o[41] (AgenLsu)                   0.0000     0.2000 f
+  lsu/agenPacket0_i[41] (LSU)                           0.0000     0.2000 f
+  lsu/U18418/QN (NOR3X0)                                2.4988     2.6988 r
+  lsu/U792/Q (AND2X1)                                   0.7859     3.4847 r
+  lsu/U791/ZN (INVX0)                                   0.7571     4.2417 f
+  lsu/U18220/Q (OA22X1)                                 4.2862     8.5279 f
+  lsu/U18219/Q (OA221X1)                                0.4040     8.9319 f
+  lsu/U18214/QN (NAND4X0)                               0.5486     9.4805 r
+  lsu/U3363/Q (AO22X1)                                  0.6330    10.1135 r
+  lsu/U74/Q (XNOR2X1)                                   5.2772    15.3907 f
+  lsu/U86/ZN (INVX0)                                    0.5782    15.9690 r
+  lsu/U18183/Q (OA22X1)                                 0.5742    16.5432 r
+  lsu/U18162/Q (OA22X1)                                 0.5757    17.1189 r
+  lsu/U18141/Q (OA22X1)                                 0.5742    17.6931 r
+  lsu/U18140/Q (OA22X1)                                 0.5080    18.2011 r
+  lsu/U19653/ZN (IBUFFX16)                              0.6855    18.8866 f
+  lsu/U18130/QN (NOR4X0)                                2.6720    21.5586 r
+  lsu/U18129/QN (NAND4X0)                               0.6563    22.2149 f
+  lsu/U19605/ZN (INVX0)                                 0.9485    23.1634 r
+  lsu/U19604/Z (DELLN1X2)                               1.0010    24.1644 r
+  lsu/U17392/Q (AO221X1)                                1.2993    25.4637 r
+  lsu/U19554/Q (AND3X1)                                 0.3866    25.8503 r
+  lsu/U19553/Q (AND4X1)                                 0.4210    26.2714 r
+  lsu/U256/QN (NAND3X0)                                 0.8393    27.1106 f
+  lsu/U16517/Q (OA22X1)                                 3.0759    30.1865 f
+  lsu/U16516/Q (OA221X1)                                0.4053    30.5917 f
+  lsu/U16513/QN (NAND4X0)                               0.5799    31.1716 r
+  lsu/U19638/Q (OA21X1)                                 0.4816    31.6533 r
+  lsu/U16471/QN (NOR3X0)                                1.2748    32.9281 f
+  lsu/U19634/ZN (INVX0)                                 0.8214    33.7495 r
+  lsu/U16451/QN (NAND4X0)                               0.7831    34.5326 f
+  lsu/U19646/QN (NAND3X1)                               0.5694    35.1020 r
+  lsu/U16413/QN (NOR3X0)                                0.9293    36.0313 f
+  lsu/U19614/ZN (INVX0)                                 0.8170    36.8484 r
+  lsu/U19626/QN (NAND3X4)                               0.6433    37.4916 f
+  lsu/U19612/ZN (INVX0)                                 0.5818    38.0734 r
+  lsu/U19649/Q (OA21X1)                                 0.4397    38.5131 r
+  lsu/U16374/QN (NOR3X0)                                1.4122    39.9253 f
+  lsu/U31/ZN (INVX0)                                    0.8993    40.8246 r
+  lsu/U16373/QN (NAND4X0)                               0.6934    41.5180 f
+  lsu/U19625/ZN (INVX0)                                 0.6088    42.1268 r
+  lsu/U19628/QN (NOR2X0)                                1.0893    43.2162 f
+  lsu/U16372/Q (AND3X1)                                 0.6174    43.8336 f
+  lsu/U19639/QN (NAND3X1)                               0.6757    44.5093 r
+  lsu/U19606/ZN (INVX0)                                 0.5917    45.1011 f
+  lsu/U19644/Q (OA21X1)                                 0.5876    45.6886 f
+  lsu/U16352/QN (NOR3X0)                                1.4055    47.0941 r
+  lsu/U19610/ZN (INVX0)                                 0.8288    47.9229 f
+  lsu/U16332/QN (NAND4X0)                               0.7866    48.7095 r
+  lsu/U403/QN (NAND3X0)                                 0.8378    49.5473 f
+  lsu/U19641/ZN (INVX0)                                 0.6111    50.1584 r
+  lsu/U19640/QN (NAND3X1)                               0.8052    50.9636 f
+  lsu/U19608/Q (AND3X2)                                 0.5546    51.5182 f
+  lsu/U19651/Q (OA21X1)                                 0.4880    52.0062 f
+  lsu/U16254/QN (NOR3X0)                                1.4146    53.4209 r
+  lsu/U23/ZN (INVX0)                                    0.9042    54.3251 f
+  lsu/U16253/QN (NAND4X0)                               0.6946    55.0197 r
+  lsu/U19624/ZN (INVX0)                                 0.6088    55.6285 f
+  lsu/U19627/QN (NOR2X0)                                1.0844    56.7129 r
+  lsu/U16252/Q (AND3X1)                                 0.6055    57.3184 r
+  lsu/U24/Q (AND3X1)                                    0.6565    57.9750 r
+  lsu/U19643/Q (OA21X1)                                 0.6431    58.6180 r
+  lsu/U16232/QN (NOR3X0)                                1.4057    60.0237 f
+  lsu/U19636/ZN (INVX0)                                 0.8239    60.8476 r
+  lsu/U16212/QN (NAND4X0)                               0.7874    61.6350 f
+  lsu/U559/QN (NAND3X0)                                 0.8531    62.4881 r
+  lsu/U755/ZN (INVX0)                                   0.6178    63.1059 f
+  lsu/U19642/QN (NAND3X1)                               0.8170    63.9229 r
+  lsu/U51/QN (NAND3X1)                                  0.7639    64.6868 f
+  lsu/U19615/ZN (INVX0)                                 0.5793    65.2661 r
+  lsu/U19648/Q (OA21X1)                                 0.4387    65.7048 r
+  lsu/U16134/QN (NOR3X0)                                1.4120    67.1169 f
+  lsu/U49/ZN (INVX0)                                    0.8996    68.0165 r
+  lsu/U16133/QN (NAND4X0)                               0.6934    68.7098 f
+  lsu/U19618/ZN (INVX0)                                 0.6088    69.3187 r
+  lsu/U19622/QN (NOR2X0)                                1.0893    70.4080 f
+  lsu/U16132/Q (AND3X1)                                 0.6234    71.0314 f
+  lsu/U571/QN (NAND3X0)                                 1.1478    72.1793 r
+  lsu/U750/ZN (INVX0)                                   0.6053    72.7846 f
+  lsu/U19645/Q (OA21X1)                                 0.5918    73.3764 f
+  lsu/U16112/QN (NOR3X0)                                1.4055    74.7820 r
+  lsu/U19637/ZN (INVX0)                                 0.8255    75.6074 f
+  lsu/U16092/QN (NAND4X0)                               0.7827    76.3902 r
+  lsu/U19635/QN (NAND3X1)                               0.5583    76.9485 f
+  lsu/U27/ZN (INVX0)                                    0.6056    77.5541 r
+  lsu/U26/QN (NAND3X0)                                  1.2608    78.8149 f
+  lsu/U18/QN (NAND3X1)                                  0.7721    79.5871 r
+  lsu/U19611/ZN (INVX0)                                 0.5803    80.1674 f
+  lsu/U19650/Q (OA21X1)                                 0.4394    80.6068 f
+  lsu/U16014/QN (NOR3X0)                                1.4146    82.0214 r
+  lsu/U25/ZN (INVX0)                                    0.9042    82.9257 f
+  lsu/U16013/QN (NAND4X0)                               0.6946    83.6203 r
+  lsu/U19633/ZN (INVX0)                                 0.6079    84.2282 f
+  lsu/U19632/QN (NOR2X0)                                1.0841    85.3124 r
+  lsu/U56/Q (AND3X1)                                    0.6052    85.9176 r
+  lsu/U19623/QN (NAND3X1)                               0.7321    86.6497 f
+  lsu/U19616/ZN (INVX0)                                 0.5849    87.2347 r
+  lsu/U19647/Q (OA21X1)                                 0.4914    87.7261 r
+  lsu/U15955/QN (NOR3X0)                                1.4133    89.1395 f
+  lsu/U57/ZN (INVX0)                                    0.8997    90.0391 r
+  lsu/U15954/QN (NAND4X0)                               0.7000    90.7391 f
+  lsu/U19619/ZN (INVX0)                                 0.6749    91.4140 r
+  lsu/U8/Q (AO222X1)                                    0.8366    92.2506 r
+  lsu/U19630/QN (NOR2X0)                                0.6489    92.8995 f
+  lsu/U19629/ZN (INVX0)                                 0.6546    93.5542 r
+  lsu/U18299/Q (AND2X4)                                 0.5440    94.0982 r
+  lsu/U19689/ZN (IBUFFX16)                              0.6866    94.7848 f
+  lsu/U2051/Q (OA22X1)                                  2.5666    97.3514 f
+  lsu/U13945/Q (OA221X1)                                0.4003    97.7518 f
+  lsu/U13942/Q (OA22X1)                                 0.5641    98.3159 f
+  lsu/U13941/Q (OA221X1)                                0.4017    98.7176 f
+  lsu/U3251/QN (OAI222X1)                               0.5770    99.2945 r
+  lsu/ldViolationPacket_o[1] (LSU)                      0.0000    99.2945 r
+  writebk/ldViolationPacket_i[1] (WriteBack)            0.0000    99.2945 r
+  writebk/U185/Q (AO22X1)                               0.5421    99.8367 r
+  writebk/ldViolationPacket_reg[1]/D (DFFX1)            0.0443    99.8809 r
+  data arrival time                                               99.8809
+
+  clock clock (rise edge)                             100.0000   100.0000
+  clock network delay (ideal)                           0.0000   100.0000
+  clock uncertainty                                    -0.0100    99.9900
+  writebk/ldViolationPacket_reg[1]/CLK (DFFX1)          0.0000    99.9900 r
+  library setup time                                   -0.0673    99.9227
+  data required time                                              99.9227
+  --------------------------------------------------------------------------
+  data required time                                              99.9227
+  data arrival time                                              -99.8809
+  --------------------------------------------------------------------------
+  slack (MET)                                                      0.0417
+
+
+  Startpoint: fs2dec/inst0Packet_o_reg[101]
+              (rising edge-triggered flip-flop clocked by clock)
+  Endpoint: instBuf/instBuffer/we0_i
+            (internal path endpoint)
+  Path Group: default
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  FABSCALAR          2000000               saed90nm_typ
+  Decode_PISA_3      8000                  saed90nm_typ
+  Decode             140000                saed90nm_typ
+  InstructionBuffer  8000                  saed90nm_typ
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  fs2dec/inst0Packet_o_reg[101]/CLK (DFFX1)             0.0000 #   0.0000 r
+  fs2dec/inst0Packet_o_reg[101]/Q (DFFX1)               0.2047     0.2047 f
+  fs2dec/inst0Packet_o[101] (Fetch2Decode)              0.0000     0.2047 f
+  decode/inst0Packet_i[101] (Decode)                    0.0000     0.2047 f
+  decode/decode0_PISA/instPacket_i[101] (Decode_PISA_3)
+                                                        0.0000     0.2047 f
+  decode/decode0_PISA/U102/QN (NAND2X1)                 2.5795     2.7842 r
+  decode/decode0_PISA/U127/QN (NOR2X0)                  0.1333     2.9175 f
+  decode/decode0_PISA/U131/ZN (INVX0)                   0.0875     3.0049 r
+  decode/decode0_PISA/U282/QN (NAND3X0)                 0.0916     3.0965 f
+  decode/decode0_PISA/U153/ZN (INVX0)                   0.0793     3.1758 r
+  decode/decode0_PISA/U281/Q (AND2X1)                   0.1027     3.2785 r
+  decode/decode0_PISA/U154/QN (NOR2X0)                  0.1103     3.3888 f
+  decode/decode0_PISA/U523/Z (NBUFFX2)                  0.1180     3.5068 f
+  decode/decode0_PISA/U194/Q (AND2X1)                   0.6023     4.1091 f
+  decode/decode0_PISA/decodedPacket1Valid_o (Decode_PISA_3)
+                                                        0.0000     4.1091 f
+  decode/U2633/QN (NAND2X0)                             0.5497     4.6588 r
+  decode/U18/Q (OA21X1)                                 0.7377     5.3965 r
+  decode/U93/ZN (INVX0)                                 0.4923     5.8888 f
+  decode/U5833/Q (XOR2X1)                               1.0103     6.8991 r
+  decode/U5832/Q (XOR2X1)                               1.3781     8.2772 f
+  decode/U3779/Q (AND2X1)                               0.6546     8.9318 f
+  decode/U3901/Q (AND2X1)                               0.4639     9.3957 f
+  decode/U5819/Q (XOR2X1)                               0.9691    10.3649 r
+  decode/add_177_I6_aco/U1_2/CO (FADDX1)                2.7229    13.0877 r
+  decode/U3778/Q (AND2X1)                               0.4643    13.5520 r
+  decode/U5823/Q (XOR2X1)                               0.9484    14.5004 f
+  decode/U3897/Q (AND2X1)                               0.5136    15.0139 f
+  decode/U5828/Q (XOR2X1)                               0.9484    15.9623 r
+  decode/U28/QN (NOR3X0)                                0.6436    16.6060 f
+  decode/U13/QN (NAND2X1)                               0.5574    17.1633 r
+  decode/U39/QN (NOR2X0)                                0.6513    17.8146 f
+  decode/U5812/QN (NAND4X0)                             0.6063    18.4209 r
+  decode/U173/ZN (INVX0)                                0.6217    19.0426 f
+  decode/U861/QN (NOR4X0)                               2.0528    21.0954 r
+  decode/U860/QN (NAND4X0)                              0.7831    21.8786 f
+  decode/U4068/ZN (INVX0)                               3.2519    25.1305 r
+  decode/U4069/ZN (IBUFFX4)                             0.5228    25.6533 f
+  decode/decodedVector_o[0] (Decode)                    0.0000    25.6533 f
+  instBuf/decodedVector_i[0] (InstructionBuffer)        0.0000    25.6533 f
+  instBuf/U35/Q (AND2X1)                                7.7660    33.4192 f
+  instBuf/C141/Q (AND2X1)                               0.0951    33.5143 f
+  instBuf/instBuffer/we0_i (SRAM_8R8W)                  0.0001    33.5144 f
+  data arrival time                                               33.5144
+
+  max_delay                                            99.5100    99.5100
+  output external delay                                 0.0000    99.5100
+  data required time                                              99.5100
+  --------------------------------------------------------------------------
+  data required time                                              99.5100
+  data arrival time                                              -33.5144
+  --------------------------------------------------------------------------
+  slack (MET)                                                     65.9956
+
+
+1

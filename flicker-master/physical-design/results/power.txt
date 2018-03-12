@@ -1,0 +1,285 @@
+Loading db file '/research/brg/install/bare-pkgs/noarch/synopsys-90nm/toolflow/cells.db'
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+Warning: Design has unannotated black box outputs. (PWR-428)
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : FABSCALAR
+Version: F-2011.09-SP3
+Date   : Mon Apr  6 20:43:47 2015
+****************************************
+
+
+Library(s) Used:
+
+    saed90nm_typ (File: /research/brg/install/bare-pkgs/noarch/synopsys-90nm/toolflow/cells.db)
+
+
+Operating Conditions: TYPICAL   Library: saed90nm_typ
+Wire Load Model Mode: enclosed
+
+Design        Wire Load Model            Library
+------------------------------------------------
+FABSCALAR              2000000           saed90nm_typ
+Interface              16000             saed90nm_typ
+FetchStage1            140000            saed90nm_typ
+Fetch1Fetch2           16000             saed90nm_typ
+FetchStage2            140000            saed90nm_typ
+Fetch2Decode           35000             saed90nm_typ
+Decode                 140000            saed90nm_typ
+InstructionBuffer      8000              saed90nm_typ
+InstBufRename          35000             saed90nm_typ
+Rename                 16000             saed90nm_typ
+RenameDispatch         35000             saed90nm_typ
+Dispatch               8000              saed90nm_typ
+IssueQueue             140000            saed90nm_typ
+IssueqRegRead          35000             saed90nm_typ
+RegRead                70000             saed90nm_typ
+RegReadExecute         35000             saed90nm_typ
+Execute                280000            saed90nm_typ
+WriteBack              16000             saed90nm_typ
+AgenLsu                8000              saed90nm_typ
+LSU                    540000            saed90nm_typ
+ActiveList             16000             saed90nm_typ
+ArchMapTable           8000              saed90nm_typ
+BTB                    16000             saed90nm_typ
+BranchPrediction       8000              saed90nm_typ
+RAS                    70000             saed90nm_typ
+CtrlQueue              140000            saed90nm_typ
+PreDecode_PISA_3       8000              saed90nm_typ
+PreDecode_PISA_0       8000              saed90nm_typ
+Decode_PISA_3          8000              saed90nm_typ
+Decode_PISA_0          8000              saed90nm_typ
+SpecFreeList           8000              saed90nm_typ
+RenameMapTable         8000              saed90nm_typ
+IssueQFreeList         70000             saed90nm_typ
+Select3                16000             saed90nm_typ
+Select_2               8000              saed90nm_typ
+Select_0               8000              saed90nm_typ
+RSR2                   8000              saed90nm_typ
+FU0_2                  35000             saed90nm_typ
+FU0_0                  35000             saed90nm_typ
+FU1                    140000            saed90nm_typ
+FU2                    8000              saed90nm_typ
+FU3                    8000              saed90nm_typ
+ForwardCheck_11        8000              saed90nm_typ
+ForwardCheck_0         8000              saed90nm_typ
+DispatchedLoad         8000              saed90nm_typ
+DispatchedStore        8000              saed90nm_typ
+CommitLoad             8000              saed90nm_typ
+CommitStore            8000              saed90nm_typ
+FreeIssueq             8000              saed90nm_typ
+Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_5
+                       8000              saed90nm_typ
+cascadedSelectBlock_c3_8_3
+                       8000              saed90nm_typ
+cascadedSelectBlock_c3_8_0
+                       8000              saed90nm_typ
+cascadedSelectBlock_c3_4
+                       8000              saed90nm_typ
+selectBlock_8_11       ForQA             saed90nm_typ
+selectBlock_4_2        ForQA             saed90nm_typ
+selectBlock_8_0        ForQA             saed90nm_typ
+selectBlock_4_0        ForQA             saed90nm_typ
+Simple_ALU_2           35000             saed90nm_typ
+Simple_ALU_0           35000             saed90nm_typ
+Complex_ALU            140000            saed90nm_typ
+Ctrl_ALU               8000              saed90nm_typ
+AGEN                   8000              saed90nm_typ
+selectFromBlock_1_1    ForQA             saed90nm_typ
+selectFromBlock_0_3    ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_11
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_0
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH12_2
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH12_0
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_11
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH4_2
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_0
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH4_0
+                       ForQA             saed90nm_typ
+PreDecode_PISA_1       8000              saed90nm_typ
+PreDecode_PISA_2       8000              saed90nm_typ
+Decode_PISA_1          8000              saed90nm_typ
+Decode_PISA_2          8000              saed90nm_typ
+Select_1               8000              saed90nm_typ
+FU0_1                  35000             saed90nm_typ
+ForwardCheck_1         8000              saed90nm_typ
+ForwardCheck_2         8000              saed90nm_typ
+ForwardCheck_3         8000              saed90nm_typ
+ForwardCheck_4         8000              saed90nm_typ
+ForwardCheck_5         8000              saed90nm_typ
+ForwardCheck_6         8000              saed90nm_typ
+ForwardCheck_7         8000              saed90nm_typ
+ForwardCheck_8         8000              saed90nm_typ
+ForwardCheck_9         8000              saed90nm_typ
+ForwardCheck_10        8000              saed90nm_typ
+Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_0
+                       8000              saed90nm_typ
+Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_1
+                       8000              saed90nm_typ
+Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_2
+                       8000              saed90nm_typ
+Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_3
+                       8000              saed90nm_typ
+Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_4
+                       8000              saed90nm_typ
+cascadedSelectBlock_c3_8_1
+                       8000              saed90nm_typ
+cascadedSelectBlock_c3_8_2
+                       8000              saed90nm_typ
+selectBlock_8_1        ForQA             saed90nm_typ
+selectBlock_8_2        ForQA             saed90nm_typ
+selectBlock_8_3        ForQA             saed90nm_typ
+selectBlock_8_4        ForQA             saed90nm_typ
+selectBlock_8_5        ForQA             saed90nm_typ
+selectBlock_8_6        ForQA             saed90nm_typ
+selectBlock_8_7        ForQA             saed90nm_typ
+selectBlock_8_8        ForQA             saed90nm_typ
+selectBlock_8_9        ForQA             saed90nm_typ
+selectBlock_8_10       ForQA             saed90nm_typ
+selectBlock_4_1        ForQA             saed90nm_typ
+Simple_ALU_1           35000             saed90nm_typ
+selectFromBlock_1_0    ForQA             saed90nm_typ
+selectFromBlock_0_0    ForQA             saed90nm_typ
+selectFromBlock_0_1    ForQA             saed90nm_typ
+selectFromBlock_0_2    ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_1
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_2
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_3
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_4
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_5
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_6
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_7
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_8
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_9
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH24_10
+                       8000              saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH12_1
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_1
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_2
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_3
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_4
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_5
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_6
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_7
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_8
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_9
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH8_10
+                       ForQA             saed90nm_typ
+PriorityEncoder_ENCODER_WIDTH4_1
+                       ForQA             saed90nm_typ
+Simple_ALU_1_DW_cmp_0  8000              saed90nm_typ
+Simple_ALU_1_DW_rightsh_0
+                       8000              saed90nm_typ
+Simple_ALU_1_DW_rightsh_1
+                       8000              saed90nm_typ
+Simple_ALU_1_DW_rightsh_2
+                       8000              saed90nm_typ
+Simple_ALU_1_DW_rightsh_3
+                       8000              saed90nm_typ
+Simple_ALU_1_DW_leftsh_0
+                       8000              saed90nm_typ
+Simple_ALU_1_DW_leftsh_1
+                       8000              saed90nm_typ
+Simple_ALU_1_DW_cmp_1  8000              saed90nm_typ
+Simple_ALU_1_DW_cmp_2  8000              saed90nm_typ
+Simple_ALU_1_DW01_sub_0
+                       8000              saed90nm_typ
+Simple_ALU_1_DW01_add_0
+                       8000              saed90nm_typ
+Simple_ALU_1_DW01_add_1
+                       8000              saed90nm_typ
+Simple_ALU_2_DW_cmp_0  8000              saed90nm_typ
+Simple_ALU_2_DW_rightsh_0
+                       8000              saed90nm_typ
+Simple_ALU_2_DW_rightsh_1
+                       8000              saed90nm_typ
+Simple_ALU_2_DW_rightsh_2
+                       8000              saed90nm_typ
+Simple_ALU_2_DW_rightsh_3
+                       8000              saed90nm_typ
+Simple_ALU_2_DW_leftsh_0
+                       8000              saed90nm_typ
+Simple_ALU_2_DW_leftsh_1
+                       8000              saed90nm_typ
+Simple_ALU_2_DW_cmp_1  8000              saed90nm_typ
+Simple_ALU_2_DW_cmp_2  8000              saed90nm_typ
+Simple_ALU_2_DW01_sub_0
+                       8000              saed90nm_typ
+Simple_ALU_2_DW01_add_0
+                       8000              saed90nm_typ
+Simple_ALU_2_DW01_add_1
+                       8000              saed90nm_typ
+PreDecode_PISA_1_DW01_add_0
+                       8000              saed90nm_typ
+PreDecode_PISA_1_DW01_add_1
+                       8000              saed90nm_typ
+PreDecode_PISA_2_DW01_add_0
+                       8000              saed90nm_typ
+PreDecode_PISA_2_DW01_add_1
+                       8000              saed90nm_typ
+PreDecode_PISA_3_DW01_add_0
+                       8000              saed90nm_typ
+PreDecode_PISA_3_DW01_add_1
+                       8000              saed90nm_typ
+
+
+Global Operating Voltage = 1.2  
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = 1pW
+
+
+  Cell Internal Power  =   3.0822 mW   (94%)
+  Net Switching Power  = 197.3988 uW    (6%)
+                         ---------
+Total Dynamic Power    =   3.2796 mW  (100%)
+
+Cell Leakage Power     =   5.6600 mW
+
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+memory             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+black_box          0.0000            0.0000            0.0000            0.0000  (   0.00%)
+clock_network    178.3874           83.2993        1.3981e+09        1.6598e+03  (  18.57%)
+register       2.6556e+03           22.0564        1.3905e+09        4.0681e+03  (  45.51%)
+sequential         9.4931            2.1557        1.7996e+08          191.6038  (   2.14%)
+combinational    238.7234           89.6814        2.6913e+09        3.0197e+03  (  33.78%)
+--------------------------------------------------------------------------------------------------
+Total          3.0822e+03 uW       197.1928 uW     5.6598e+09 pW     8.9392e+03 uW
+1

@@ -1,0 +1,155 @@
+Warning: Design 'FABSCALAR' has '12' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : FABSCALAR
+Version: F-2011.09-SP3
+Date   : Thu Apr  9 13:01:20 2015
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: TYPICAL   Library: saed90nm_typ
+Wire Load Model Mode: enclosed
+
+  Startpoint: agenLsu/exePacket3_reg[41]
+              (rising edge-triggered flip-flop clocked by clock)
+  Endpoint: writebk/ldViolationPacket_reg[5]
+            (rising edge-triggered flip-flop clocked by clock)
+  Path Group: clock
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  FABSCALAR          2000000               saed90nm_typ
+  LSU                540000                saed90nm_typ
+  WriteBack          16000                 saed90nm_typ
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clock (rise edge)                               0.0000     0.0000
+  clock network delay (ideal)                           0.0000     0.0000
+  agenLsu/exePacket3_reg[41]/CLK (DFFX1)                0.0000 #   0.0000 r
+  agenLsu/exePacket3_reg[41]/Q (DFFX1)                  0.1592     0.1592 r
+  agenLsu/agenPacket0_o[41] (AgenLsu)                   0.0000     0.1592 r
+  lsu/agenPacket0_i[41] (LSU)                           0.0000     0.1592 r
+  lsu/U5194/ZN (INVX0)                                  0.7096     0.8688 f
+  lsu/U5248/Z (DELLN1X2)                                0.6795     1.5483 f
+  lsu/U3615/Q (AND2X4)                                  0.6040     2.1522 f
+  lsu/U5823/QN (NAND2X0)                                0.6753     2.8275 r
+  lsu/U6129/QN (NOR2X0)                                 1.0710     3.8985 f
+  lsu/U6341/QN (NOR2X0)                                 0.6504     4.5489 r
+  lsu/U1308/Q (AND2X1)                                  0.4729     5.0218 r
+  lsu/U714/Q (AND2X1)                                   0.4383     5.4601 r
+  lsu/U781/QN (NAND4X0)                                 0.5795     6.0396 f
+  lsu/U6340/QN (NAND2X0)                                0.4317     6.4713 r
+  lsu/U190/Z (DELLN1X2)                                 0.6928     7.1640 r
+  lsu/U5258/QN (NAND2X0)                                1.2552     8.4192 f
+  lsu/U14/ZN (IBUFFX16)                                 0.7539     9.1731 r
+  lsu/U509/QN (NAND2X0)                                 1.3231    10.4962 f
+  lsu/U5994/QN (NOR2X0)                                 4.4099    14.9061 r
+  lsu/U4653/QN (NOR2X0)                                 0.6598    15.5659 f
+  lsu/U107/QN (NAND2X0)                                 0.4079    15.9738 r
+  lsu/U106/Q (OR2X1)                                    0.7173    16.6911 r
+  lsu/U6241/QN (NOR2X0)                                 0.6539    17.3450 f
+  lsu/U4837/QN (NAND4X0)                                0.6893    18.0343 r
+  lsu/U6309/QN (NAND2X0)                                0.4702    18.5045 f
+  lsu/U549/Q (AND2X2)                                   0.4715    18.9760 f
+  lsu/U6345/QN (NAND2X0)                                0.4894    19.4654 r
+  lsu/U863/ZN (INVX0)                                   0.6666    20.1321 f
+  lsu/U5136/Q (AND2X4)                                  0.6616    20.7936 f
+  lsu/U4986/ZN (INVX0)                                  0.6561    21.4498 r
+  lsu/U206/Q (AND2X4)                                   0.5702    22.0199 r
+  lsu/U5013/QN (NAND2X0)                                0.4004    22.4203 f
+  lsu/U1121/Q (AND2X1)                                  0.4399    22.8602 f
+  lsu/U11351/QN (NAND4X0)                               0.4995    23.3598 r
+  lsu/U4700/QN (NAND2X0)                                0.4066    23.7663 f
+  lsu/U215/Q (AND2X1)                                   0.5192    24.2855 f
+  lsu/U4568/QN (NAND3X1)                                0.5596    24.8451 r
+  lsu/U5788/QN (NAND2X0)                                0.5953    25.4404 f
+  lsu/U5919/Z (DELLN1X2)                                0.6932    26.1336 f
+  lsu/U11464/Q (OA22X1)                                 0.8986    27.0321 f
+  lsu/U11465/Q (OA221X1)                                0.3998    27.4320 f
+  lsu/U11469/Q (OA221X1)                                0.5314    27.9634 f
+  lsu/U5881/QN (OAI222X1)                               0.4585    28.4218 r
+  lsu/ldViolationPacket_o[5] (LSU)                      0.0000    28.4218 r
+  writebk/ldViolationPacket_i[5] (WriteBack)            0.0000    28.4218 r
+  writebk/U755/Q (AO22X1)                               0.5422    28.9640 r
+  writebk/ldViolationPacket_reg[5]/D (DFFX1)            0.0443    29.0082 r
+  data arrival time                                               29.0082
+
+  clock clock (rise edge)                               2.0000     2.0000
+  clock network delay (ideal)                           0.0000     2.0000
+  clock uncertainty                                    -0.0100     1.9900
+  writebk/ldViolationPacket_reg[5]/CLK (DFFX1)          0.0000     1.9900 r
+  library setup time                                   -0.0675     1.9225
+  data required time                                               1.9225
+  --------------------------------------------------------------------------
+  data required time                                               1.9225
+  data arrival time                                              -29.0082
+  --------------------------------------------------------------------------
+  slack (VIOLATED)                                               -27.0857
+
+
+  Startpoint: activeList/activeListCnt_o[5]
+              (internal path startpoint)
+  Endpoint: lsu/U12828/IN3
+            (internal path endpoint)
+  Path Group: default
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  FABSCALAR          2000000               saed90nm_typ
+  Dispatch           8000                  saed90nm_typ
+  LSU                540000                saed90nm_typ
+  DispatchedLoad     8000                  saed90nm_typ
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  input external delay                                  0.0000     0.0000 f
+  activeList/activeListCnt_o[5] (ActiveList)            0.0000     0.0000 f
+  dispatch/activeListCnt_i[5] (Dispatch)                0.0000     0.0000 f
+  dispatch/U930/Q (AND4X1)                              0.0807     0.0807 f
+  dispatch/U931/QN (OAI21X1)                            0.1224     0.2031 r
+  dispatch/U7/QN (NAND2X0)                              0.0714     0.2745 f
+  dispatch/U415/QN (NOR2X0)                             0.1424     0.4169 r
+  dispatch/backEndReady_o (Dispatch)                    0.0000     0.4169 r
+  lsu/backEndReady_i (LSU)                              0.0000     0.4169 r
+  lsu/U5143/Z (DELLN1X2)                                1.2731     1.6900 r
+  lsu/U5142/Q (AND2X4)                                  0.5738     2.2638 r
+  lsu/disLoad/inst3Load_i (DispatchedLoad)              0.0000     2.2638 r
+  lsu/disLoad/U65/ZN (IBUFFX16)                         0.7466     3.0104 f
+  lsu/disLoad/U68/QN (NAND2X0)                          0.0806     3.0910 r
+  lsu/disLoad/U80/Q (AND2X1)                            0.0990     3.1901 r
+  lsu/disLoad/U72/Q (MUX21X1)                           0.1246     3.3147 r
+  lsu/disLoad/U73/ZN (INVX0)                            0.0681     3.3828 f
+  lsu/disLoad/U84/QN (NAND2X0)                          0.0635     3.4463 r
+  lsu/disLoad/U16/Q (XNOR2X2)                           0.1774     3.6238 r
+  lsu/disLoad/cntLdNew_o[1] (DispatchedLoad)            0.0000     3.6238 r
+  lsu/U5020/Z (DELLN1X2)                                0.6202     4.2440 r
+  lsu/U4736/Q (XOR3X1)                                  1.1133     5.3572 f
+  lsu/U5018/Q (AND2X4)                                  0.7254     6.0827 f
+  lsu/U4636/QN (OAI22X2)                                0.4980     6.5807 r
+  lsu/U904/Q (AO22X1)                                   0.5373     7.1179 r
+  lsu/U5861/QN (NOR2X0)                                 0.6373     7.7552 f
+  lsu/U4512/QN (OAI22X1)                                0.5393     8.2945 r
+  lsu/U4511/QN (AOI22X1)                                0.4761     8.7706 f
+  lsu/U4547/Q (XNOR3X2)                                 0.7359     9.5065 f
+  lsu/U12828/IN3 (AO22X2)                               0.3929     9.8994 f
+  data arrival time                                                9.8994
+
+  max_delay                                             1.5910     1.5910
+  output external delay                                 0.0000     1.5910
+  data required time                                               1.5910
+  --------------------------------------------------------------------------
+  data required time                                               1.5910
+  data arrival time                                               -9.8994
+  --------------------------------------------------------------------------
+  slack (VIOLATED)                                                -8.3084
+
+
+1

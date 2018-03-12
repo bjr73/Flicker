@@ -1,0 +1,122 @@
+Information: Building the design 'L1ICache'. (HDL-193)
+Warning: Cannot find the design 'L1ICache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R8W' instantiated from design 'InstructionBuffer' with
+	the parameters "32,5,126". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R8W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,129". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CAM_4R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,7". (HDL-193)
+Warning: Cannot find the design 'CAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_12R6W_PIPE' instantiated from design 'RegRead' with
+	the parameters "96,7,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_12R6W_PIPE' in the library 'WORK'. (LBR-1)
+Information: Building the design 'L1DataCache'. (HDL-193)
+Warning: Cannot find the design 'L1DataCache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,55". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,8". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,1". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_AMT' instantiated from design 'ArchMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_AMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,17". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,35". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_2R1W_HY' instantiated from design 'BranchPrediction' with
+	the parameters "32768,15,2,4,2". (HDL-193)
+Warning: Cannot find the design 'SRAM_2R1W_HY' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_FREELIST' instantiated from design 'SpecFreeList' with
+	the parameters "62,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_FREELIST' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W_RMT' instantiated from design 'RenameMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W_RMT' in the library 'WORK'. (LBR-1)
+Warning: Unable to resolve reference 'L1ICache' in 'FetchStage1'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R8W' in 'InstructionBuffer'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'CAM_4R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_12R6W_PIPE' in 'RegRead'. (LINK-5)
+Warning: Unable to resolve reference 'L1DataCache' in 'LSU'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W' in 'ActiveList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_AMT' in 'ArchMapTable'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_1R1W' in 'BTB'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_2R1W_HY' in 'BranchPrediction'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_FREELIST' in 'SpecFreeList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W_RMT' in 'RenameMapTable'. (LINK-5)
+Warning: Design 'FABSCALAR' has '12' unresolved references. For more detailed information, use the "link" command. (UID-341)
+Information: Uniquified 4 instances of design 'PreDecode_PISA'. (OPT-1056)
+Information: Uniquified 4 instances of design 'Decode_PISA'. (OPT-1056)
+Information: Uniquified 3 instances of design 'Select'. (OPT-1056)
+Information: Uniquified 3 instances of design 'FU0'. (OPT-1056)
+Information: Uniquified 12 instances of design 'ForwardCheck'. (OPT-1056)
+Information: Uniquified 6 instances of design 'Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5'. (OPT-1056)
+Information: Uniquified 4 instances of design 'cascadedSelectBlock_c3_8'. (OPT-1056)
+Information: Uniquified 12 instances of design 'selectBlock_8'. (OPT-1056)
+Information: Uniquified 3 instances of design 'selectBlock_4'. (OPT-1056)
+Information: Uniquified 3 instances of design 'Simple_ALU'. (OPT-1056)
+Information: Uniquified 2 instances of design 'selectFromBlock_1'. (OPT-1056)
+Information: Uniquified 4 instances of design 'selectFromBlock_0'. (OPT-1056)
+Information: Uniquified 12 instances of design 'PriorityEncoder_ENCODER_WIDTH24'. (OPT-1056)
+Information: Uniquified 3 instances of design 'PriorityEncoder_ENCODER_WIDTH12'. (OPT-1056)
+Information: Uniquified 12 instances of design 'PriorityEncoder_ENCODER_WIDTH8'. (OPT-1056)
+Information: Uniquified 3 instances of design 'PriorityEncoder_ENCODER_WIDTH4'. (OPT-1056)
+Information: Building the design 'L1ICache'. (HDL-193)
+Warning: Cannot find the design 'L1ICache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R8W' instantiated from design 'InstructionBuffer' with
+	the parameters "32,5,126". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R8W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,129". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CAM_4R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,7". (HDL-193)
+Warning: Cannot find the design 'CAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_12R6W_PIPE' instantiated from design 'RegRead' with
+	the parameters "96,7,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_12R6W_PIPE' in the library 'WORK'. (LBR-1)
+Information: Building the design 'L1DataCache'. (HDL-193)
+Warning: Cannot find the design 'L1DataCache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,55". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,8". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,1". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_AMT' instantiated from design 'ArchMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_AMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,17". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,35". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_2R1W_HY' instantiated from design 'BranchPrediction' with
+	the parameters "32768,15,2,4,2". (HDL-193)
+Warning: Cannot find the design 'SRAM_2R1W_HY' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_FREELIST' instantiated from design 'SpecFreeList' with
+	the parameters "62,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_FREELIST' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W_RMT' instantiated from design 'RenameMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W_RMT' in the library 'WORK'. (LBR-1)
+1

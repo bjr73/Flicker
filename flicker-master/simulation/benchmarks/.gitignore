@@ -1,0 +1,13 @@
+# Compiled code #
+/*/*.o
+
+# Logs #
+/*/*.log
+
+# Results/Library Folders #
+/*/results/*
+/*/INCA_libs
+/*/outfile
+
+# Temporary files #
+*~

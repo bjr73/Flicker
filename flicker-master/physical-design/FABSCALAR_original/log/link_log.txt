@@ -1,0 +1,108 @@
+
+  Linking design 'FABSCALAR'
+  Using the following designs and libraries:
+  --------------------------------------------------------------------------
+  saed90nm_typ (library)      /research/brg/install/bare-pkgs/noarch/synopsys-90nm/toolflow/cells.db
+  dw_foundation.sldb (library) /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/dw_foundation.sldb
+
+Information: Building the design 'L1ICache'. (HDL-193)
+Warning: Cannot find the design 'L1ICache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R8W' instantiated from design 'InstructionBuffer' with
+	the parameters "32,5,126". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R8W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,129". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CAM_4R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,7". (HDL-193)
+Warning: Cannot find the design 'CAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_12R6W_PIPE' instantiated from design 'RegRead' with
+	the parameters "96,7,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_12R6W_PIPE' in the library 'WORK'. (LBR-1)
+Information: Building the design 'L1DataCache'. (HDL-193)
+Warning: Cannot find the design 'L1DataCache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,55". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,8". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,1". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_AMT' instantiated from design 'ArchMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_AMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,17". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,35". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_2R1W_HY' instantiated from design 'BranchPrediction' with
+	the parameters "32768,15,2,4,2". (HDL-193)
+Warning: Cannot find the design 'SRAM_2R1W_HY' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_FREELIST' instantiated from design 'SpecFreeList' with
+	the parameters "62,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_FREELIST' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W_RMT' instantiated from design 'RenameMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W_RMT' in the library 'WORK'. (LBR-1)
+Warning: Unable to resolve reference 'L1ICache' in 'FetchStage1'. (LINK-5)
+Warning: Unable to resolve reference 'PreDecode_PISA_3' in 'FetchStage2'. (LINK-5)
+Warning: Unable to resolve reference 'PreDecode_PISA_2' in 'FetchStage2'. (LINK-5)
+Warning: Unable to resolve reference 'PreDecode_PISA_1' in 'FetchStage2'. (LINK-5)
+Warning: Unable to resolve reference 'PreDecode_PISA_0' in 'FetchStage2'. (LINK-5)
+Warning: Unable to resolve reference 'Decode_PISA_3' in 'Decode'. (LINK-5)
+Warning: Unable to resolve reference 'Decode_PISA_2' in 'Decode'. (LINK-5)
+Warning: Unable to resolve reference 'Decode_PISA_1' in 'Decode'. (LINK-5)
+Warning: Unable to resolve reference 'Decode_PISA_0' in 'Decode'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R8W' in 'InstructionBuffer'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'CAM_4R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'Select_2' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'Select_1' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'Select_0' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_12R6W_PIPE' in 'RegRead'. (LINK-5)
+Warning: Unable to resolve reference 'FU0_2' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'FU0_1' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'FU0_0' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_11' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_10' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_9' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_8' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_7' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_6' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_5' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_4' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_3' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_2' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_1' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'ForwardCheck_0' in 'Execute'. (LINK-5)
+Warning: Unable to resolve reference 'L1DataCache' in 'LSU'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W' in 'ActiveList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_AMT' in 'ArchMapTable'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_1R1W' in 'BTB'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_2R1W_HY' in 'BranchPrediction'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_FREELIST' in 'SpecFreeList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W_RMT' in 'RenameMapTable'. (LINK-5)
+Warning: Unable to resolve reference 'Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_5' in 'Select3'. (LINK-5)
+Warning: Unable to resolve reference 'Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_4' in 'Select3'. (LINK-5)
+Warning: Unable to resolve reference 'Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_3' in 'Select3'. (LINK-5)
+Warning: Unable to resolve reference 'cascadedSelectBlock_c3_8_3' in 'Select3'. (LINK-5)
+Warning: Unable to resolve reference 'cascadedSelectBlock_c3_8_2' in 'Select3'. (LINK-5)
+Warning: Unable to resolve reference 'cascadedSelectBlock_c3_8_1' in 'Select3'. (LINK-5)
+Warning: Unable to resolve reference 'cascadedSelectBlock_c3_8_0' in 'Select3'. (LINK-5)
+Warning: Unable to resolve reference 'selectFromBlock_1_1' in 'FreeIssueq'. (LINK-5)
+Warning: Unable to resolve reference 'selectFromBlock_1_0' in 'FreeIssueq'. (LINK-5)
+Warning: Unable to resolve reference 'selectFromBlock_0_3' in 'FreeIssueq'. (LINK-5)
+Warning: Unable to resolve reference 'selectFromBlock_0_2' in 'FreeIssueq'. (LINK-5)
+Warning: Unable to resolve reference 'selectFromBlock_0_1' in 'FreeIssueq'. (LINK-5)
+Warning: Unable to resolve reference 'selectFromBlock_0_0' in 'FreeIssueq'. (LINK-5)
+Warning: Unable to resolve reference 'PriorityEncoder_ENCODER_WIDTH12_2' in 'cascadedSelectBlock_c3_4'. (LINK-5)
+Warning: Unable to resolve reference 'PriorityEncoder_ENCODER_WIDTH12_1' in 'cascadedSelectBlock_c3_4'. (LINK-5)
+Warning: Unable to resolve reference 'PriorityEncoder_ENCODER_WIDTH12_0' in 'cascadedSelectBlock_c3_4'. (LINK-5)
+0

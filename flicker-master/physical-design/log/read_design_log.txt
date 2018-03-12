@@ -1,0 +1,2630 @@
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./RAS.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/RAS.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/RAS.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/RAS.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/RAS.v
+Searching for ../cores/core-original//RAS.v
+Searching for ../cores/core-original//fetch/RAS.v
+Searching for ./BTB.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/BTB.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/BTB.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/BTB.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/BTB.v
+Searching for ../cores/core-original//BTB.v
+Searching for ../cores/core-original//fetch/BTB.v
+Searching for ./SelectInst.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SelectInst.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SelectInst.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SelectInst.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SelectInst.v
+Searching for ../cores/core-original//SelectInst.v
+Searching for ../cores/core-original//fetch/SelectInst.v
+Searching for ./BranchPrediction_2-bit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/BranchPrediction_2-bit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/BranchPrediction_2-bit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/BranchPrediction_2-bit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/BranchPrediction_2-bit.v
+Searching for ../cores/core-original//BranchPrediction_2-bit.v
+Searching for ../cores/core-original//fetch/BranchPrediction_2-bit.v
+Searching for ./FetchStage1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FetchStage1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FetchStage1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FetchStage1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FetchStage1.v
+Searching for ../cores/core-original//FetchStage1.v
+Searching for ../cores/core-original//fetch/FetchStage1.v
+Searching for ./Fetch1Fetch2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Fetch1Fetch2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Fetch1Fetch2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Fetch1Fetch2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Fetch1Fetch2.v
+Searching for ../cores/core-original//Fetch1Fetch2.v
+Searching for ../cores/core-original//fetch/Fetch1Fetch2.v
+Searching for ./FetchStage2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FetchStage2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FetchStage2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FetchStage2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FetchStage2.v
+Searching for ../cores/core-original//FetchStage2.v
+Searching for ../cores/core-original//fetch/FetchStage2.v
+Searching for ./Fetch2Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Fetch2Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Fetch2Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Fetch2Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Fetch2Decode.v
+Searching for ../cores/core-original//Fetch2Decode.v
+Searching for ../cores/core-original//fetch/Fetch2Decode.v
+Searching for ./CtrlQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/CtrlQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/CtrlQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/CtrlQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/CtrlQueue.v
+Searching for ../cores/core-original//CtrlQueue.v
+Searching for ../cores/core-original//fetch/CtrlQueue.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//fetch/RAS.v
+Compiling source file ../cores/core-original//fetch/BTB.v
+Compiling source file ../cores/core-original//fetch/SelectInst.v
+Compiling source file ../cores/core-original//fetch/BranchPrediction_2-bit.v
+Compiling source file ../cores/core-original//fetch/FetchStage1.v
+Compiling source file ../cores/core-original//fetch/Fetch1Fetch2.v
+Compiling source file ../cores/core-original//fetch/FetchStage2.v
+Compiling source file ../cores/core-original//fetch/Fetch2Decode.v
+Compiling source file ../cores/core-original//fetch/CtrlQueue.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Decode.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Decode.v
+Searching for ../cores/core-original//Decode.v
+Searching for ../cores/core-original//fetch/Decode.v
+Searching for ../cores/core-original//decode/Decode.v
+Searching for ./Decode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Decode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Decode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Decode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Decode_PISA.v
+Searching for ../cores/core-original//Decode_PISA.v
+Searching for ../cores/core-original//fetch/Decode_PISA.v
+Searching for ../cores/core-original//decode/Decode_PISA.v
+Searching for ./PreDecode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/PreDecode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/PreDecode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/PreDecode_PISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/PreDecode_PISA.v
+Searching for ../cores/core-original//PreDecode_PISA.v
+Searching for ../cores/core-original//fetch/PreDecode_PISA.v
+Searching for ../cores/core-original//decode/PreDecode_PISA.v
+Searching for ./InstructionBuffer.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/InstructionBuffer.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/InstructionBuffer.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/InstructionBuffer.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/InstructionBuffer.v
+Searching for ../cores/core-original//InstructionBuffer.v
+Searching for ../cores/core-original//fetch/InstructionBuffer.v
+Searching for ../cores/core-original//decode/InstructionBuffer.v
+Searching for ./InstBufRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/InstBufRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/InstBufRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/InstBufRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/InstBufRename.v
+Searching for ../cores/core-original//InstBufRename.v
+Searching for ../cores/core-original//fetch/InstBufRename.v
+Searching for ../cores/core-original//decode/InstBufRename.v
+Searching for ./DecodeRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/DecodeRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/DecodeRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/DecodeRename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/DecodeRename.v
+Searching for ../cores/core-original//DecodeRename.v
+Searching for ../cores/core-original//fetch/DecodeRename.v
+Searching for ../cores/core-original//decode/DecodeRename.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//decode/Decode.v
+Compiling source file ../cores/core-original//decode/Decode_PISA.v
+Compiling source file ../cores/core-original//decode/PreDecode_PISA.v
+Compiling source file ../cores/core-original//decode/InstructionBuffer.v
+Compiling source file ../cores/core-original//decode/InstBufRename.v
+Compiling source file ../cores/core-original//decode/DecodeRename.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./SpecFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SpecFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SpecFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SpecFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SpecFreeList.v
+Searching for ../cores/core-original//SpecFreeList.v
+Searching for ../cores/core-original//fetch/SpecFreeList.v
+Searching for ../cores/core-original//decode/SpecFreeList.v
+Searching for ../cores/core-original//rename/SpecFreeList.v
+Searching for ./RenameMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/RenameMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/RenameMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/RenameMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/RenameMapTable.v
+Searching for ../cores/core-original//RenameMapTable.v
+Searching for ../cores/core-original//fetch/RenameMapTable.v
+Searching for ../cores/core-original//decode/RenameMapTable.v
+Searching for ../cores/core-original//rename/RenameMapTable.v
+Searching for ./Rename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Rename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Rename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Rename.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Rename.v
+Searching for ../cores/core-original//Rename.v
+Searching for ../cores/core-original//fetch/Rename.v
+Searching for ../cores/core-original//decode/Rename.v
+Searching for ../cores/core-original//rename/Rename.v
+Searching for ./RenameDispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/RenameDispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/RenameDispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/RenameDispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/RenameDispatch.v
+Searching for ../cores/core-original//RenameDispatch.v
+Searching for ../cores/core-original//fetch/RenameDispatch.v
+Searching for ../cores/core-original//decode/RenameDispatch.v
+Searching for ../cores/core-original//rename/RenameDispatch.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//rename/SpecFreeList.v
+Compiling source file ../cores/core-original//rename/RenameMapTable.v
+Compiling source file ../cores/core-original//rename/Rename.v
+Warning:  ../cores/core-original//rename/Rename.v:218: the undeclared symbol 'checkPointedRMT' assumed to have the default net type, which is 'wire'. (VER-936)
+Compiling source file ../cores/core-original//rename/RenameDispatch.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./Dispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Dispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Dispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Dispatch.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Dispatch.v
+Searching for ../cores/core-original//Dispatch.v
+Searching for ../cores/core-original//fetch/Dispatch.v
+Searching for ../cores/core-original//decode/Dispatch.v
+Searching for ../cores/core-original//rename/Dispatch.v
+Searching for ../cores/core-original//dispatch/Dispatch.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//dispatch/Dispatch.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./IssueQFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/IssueQFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/IssueQFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/IssueQFreeList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/IssueQFreeList.v
+Searching for ../cores/core-original//IssueQFreeList.v
+Searching for ../cores/core-original//fetch/IssueQFreeList.v
+Searching for ../cores/core-original//decode/IssueQFreeList.v
+Searching for ../cores/core-original//rename/IssueQFreeList.v
+Searching for ../cores/core-original//dispatch/IssueQFreeList.v
+Searching for ../cores/core-original//issue/IssueQFreeList.v
+Searching for ./IssueQSelect.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/IssueQSelect.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/IssueQSelect.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/IssueQSelect.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/IssueQSelect.v
+Searching for ../cores/core-original//IssueQSelect.v
+Searching for ../cores/core-original//fetch/IssueQSelect.v
+Searching for ../cores/core-original//decode/IssueQSelect.v
+Searching for ../cores/core-original//rename/IssueQSelect.v
+Searching for ../cores/core-original//dispatch/IssueQSelect.v
+Searching for ../cores/core-original//issue/IssueQSelect.v
+Searching for ./IssueQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/IssueQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/IssueQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/IssueQueue.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/IssueQueue.v
+Searching for ../cores/core-original//IssueQueue.v
+Searching for ../cores/core-original//fetch/IssueQueue.v
+Searching for ../cores/core-original//decode/IssueQueue.v
+Searching for ../cores/core-original//rename/IssueQueue.v
+Searching for ../cores/core-original//dispatch/IssueQueue.v
+Searching for ../cores/core-original//issue/IssueQueue.v
+Searching for ./issueqRegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/issueqRegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/issueqRegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/issueqRegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/issueqRegRead.v
+Searching for ../cores/core-original//issueqRegRead.v
+Searching for ../cores/core-original//fetch/issueqRegRead.v
+Searching for ../cores/core-original//decode/issueqRegRead.v
+Searching for ../cores/core-original//rename/issueqRegRead.v
+Searching for ../cores/core-original//dispatch/issueqRegRead.v
+Searching for ../cores/core-original//issue/issueqRegRead.v
+Searching for ./RSR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/RSR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/RSR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/RSR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/RSR.v
+Searching for ../cores/core-original//RSR.v
+Searching for ../cores/core-original//fetch/RSR.v
+Searching for ../cores/core-original//decode/RSR.v
+Searching for ../cores/core-original//rename/RSR.v
+Searching for ../cores/core-original//dispatch/RSR.v
+Searching for ../cores/core-original//issue/RSR.v
+Searching for ./RegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/RegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/RegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/RegRead.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/RegRead.v
+Searching for ../cores/core-original//RegRead.v
+Searching for ../cores/core-original//fetch/RegRead.v
+Searching for ../cores/core-original//decode/RegRead.v
+Searching for ../cores/core-original//rename/RegRead.v
+Searching for ../cores/core-original//dispatch/RegRead.v
+Searching for ../cores/core-original//issue/RegRead.v
+Searching for ./RegReadExecute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/RegReadExecute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/RegReadExecute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/RegReadExecute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/RegReadExecute.v
+Searching for ../cores/core-original//RegReadExecute.v
+Searching for ../cores/core-original//fetch/RegReadExecute.v
+Searching for ../cores/core-original//decode/RegReadExecute.v
+Searching for ../cores/core-original//rename/RegReadExecute.v
+Searching for ../cores/core-original//dispatch/RegReadExecute.v
+Searching for ../cores/core-original//issue/RegReadExecute.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//issue/IssueQFreeList.v
+Compiling source file ../cores/core-original//issue/IssueQSelect.v
+Compiling source file ../cores/core-original//issue/IssueQueue.v
+Compiling source file ../cores/core-original//issue/issueqRegRead.v
+Compiling source file ../cores/core-original//issue/RSR.v
+Compiling source file ../cores/core-original//issue/RegRead.v
+Compiling source file ../cores/core-original//issue/RegReadExecute.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./fu0.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/fu0.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/fu0.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/fu0.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/fu0.v
+Searching for ../cores/core-original//fu0.v
+Searching for ../cores/core-original//fetch/fu0.v
+Searching for ../cores/core-original//decode/fu0.v
+Searching for ../cores/core-original//rename/fu0.v
+Searching for ../cores/core-original//dispatch/fu0.v
+Searching for ../cores/core-original//issue/fu0.v
+Searching for ../cores/core-original//execute/fu0.v
+Searching for ./fu1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/fu1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/fu1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/fu1.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/fu1.v
+Searching for ../cores/core-original//fu1.v
+Searching for ../cores/core-original//fetch/fu1.v
+Searching for ../cores/core-original//decode/fu1.v
+Searching for ../cores/core-original//rename/fu1.v
+Searching for ../cores/core-original//dispatch/fu1.v
+Searching for ../cores/core-original//issue/fu1.v
+Searching for ../cores/core-original//execute/fu1.v
+Searching for ./fu2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/fu2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/fu2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/fu2.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/fu2.v
+Searching for ../cores/core-original//fu2.v
+Searching for ../cores/core-original//fetch/fu2.v
+Searching for ../cores/core-original//decode/fu2.v
+Searching for ../cores/core-original//rename/fu2.v
+Searching for ../cores/core-original//dispatch/fu2.v
+Searching for ../cores/core-original//issue/fu2.v
+Searching for ../cores/core-original//execute/fu2.v
+Searching for ./fu3.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/fu3.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/fu3.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/fu3.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/fu3.v
+Searching for ../cores/core-original//fu3.v
+Searching for ../cores/core-original//fetch/fu3.v
+Searching for ../cores/core-original//decode/fu3.v
+Searching for ../cores/core-original//rename/fu3.v
+Searching for ../cores/core-original//dispatch/fu3.v
+Searching for ../cores/core-original//issue/fu3.v
+Searching for ../cores/core-original//execute/fu3.v
+Searching for ./ForwardCheck.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/ForwardCheck.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/ForwardCheck.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/ForwardCheck.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/ForwardCheck.v
+Searching for ../cores/core-original//ForwardCheck.v
+Searching for ../cores/core-original//fetch/ForwardCheck.v
+Searching for ../cores/core-original//decode/ForwardCheck.v
+Searching for ../cores/core-original//rename/ForwardCheck.v
+Searching for ../cores/core-original//dispatch/ForwardCheck.v
+Searching for ../cores/core-original//issue/ForwardCheck.v
+Searching for ../cores/core-original//execute/ForwardCheck.v
+Searching for ./Simple_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Simple_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Simple_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Simple_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Simple_ALU.v
+Searching for ../cores/core-original//Simple_ALU.v
+Searching for ../cores/core-original//fetch/Simple_ALU.v
+Searching for ../cores/core-original//decode/Simple_ALU.v
+Searching for ../cores/core-original//rename/Simple_ALU.v
+Searching for ../cores/core-original//dispatch/Simple_ALU.v
+Searching for ../cores/core-original//issue/Simple_ALU.v
+Searching for ../cores/core-original//execute/Simple_ALU.v
+Searching for ./Ctrl_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Ctrl_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Ctrl_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Ctrl_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Ctrl_ALU.v
+Searching for ../cores/core-original//Ctrl_ALU.v
+Searching for ../cores/core-original//fetch/Ctrl_ALU.v
+Searching for ../cores/core-original//decode/Ctrl_ALU.v
+Searching for ../cores/core-original//rename/Ctrl_ALU.v
+Searching for ../cores/core-original//dispatch/Ctrl_ALU.v
+Searching for ../cores/core-original//issue/Ctrl_ALU.v
+Searching for ../cores/core-original//execute/Ctrl_ALU.v
+Searching for ./Complex_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Complex_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Complex_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Complex_ALU.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Complex_ALU.v
+Searching for ../cores/core-original//Complex_ALU.v
+Searching for ../cores/core-original//fetch/Complex_ALU.v
+Searching for ../cores/core-original//decode/Complex_ALU.v
+Searching for ../cores/core-original//rename/Complex_ALU.v
+Searching for ../cores/core-original//dispatch/Complex_ALU.v
+Searching for ../cores/core-original//issue/Complex_ALU.v
+Searching for ../cores/core-original//execute/Complex_ALU.v
+Searching for ./AGEN.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/AGEN.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/AGEN.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/AGEN.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/AGEN.v
+Searching for ../cores/core-original//AGEN.v
+Searching for ../cores/core-original//fetch/AGEN.v
+Searching for ../cores/core-original//decode/AGEN.v
+Searching for ../cores/core-original//rename/AGEN.v
+Searching for ../cores/core-original//dispatch/AGEN.v
+Searching for ../cores/core-original//issue/AGEN.v
+Searching for ../cores/core-original//execute/AGEN.v
+Searching for ./AgenLsu.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/AgenLsu.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/AgenLsu.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/AgenLsu.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/AgenLsu.v
+Searching for ../cores/core-original//AgenLsu.v
+Searching for ../cores/core-original//fetch/AgenLsu.v
+Searching for ../cores/core-original//decode/AgenLsu.v
+Searching for ../cores/core-original//rename/AgenLsu.v
+Searching for ../cores/core-original//dispatch/AgenLsu.v
+Searching for ../cores/core-original//issue/AgenLsu.v
+Searching for ../cores/core-original//execute/AgenLsu.v
+Searching for ./Execute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Execute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Execute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Execute.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Execute.v
+Searching for ../cores/core-original//Execute.v
+Searching for ../cores/core-original//fetch/Execute.v
+Searching for ../cores/core-original//decode/Execute.v
+Searching for ../cores/core-original//rename/Execute.v
+Searching for ../cores/core-original//dispatch/Execute.v
+Searching for ../cores/core-original//issue/Execute.v
+Searching for ../cores/core-original//execute/Execute.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//execute/fu0.v
+Compiling source file ../cores/core-original//execute/fu1.v
+Compiling source file ../cores/core-original//execute/fu2.v
+Compiling source file ../cores/core-original//execute/fu3.v
+Compiling source file ../cores/core-original//execute/ForwardCheck.v
+Compiling source file ../cores/core-original//execute/Simple_ALU.v
+Compiling source file ../cores/core-original//execute/Ctrl_ALU.v
+Compiling source file ../cores/core-original//execute/Complex_ALU.v
+Compiling source file ../cores/core-original//execute/AGEN.v
+Compiling source file ../cores/core-original//execute/AgenLsu.v
+Compiling source file ../cores/core-original//execute/Execute.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./DispatchedLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/DispatchedLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/DispatchedLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/DispatchedLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/DispatchedLoad.v
+Searching for ../cores/core-original//DispatchedLoad.v
+Searching for ../cores/core-original//fetch/DispatchedLoad.v
+Searching for ../cores/core-original//decode/DispatchedLoad.v
+Searching for ../cores/core-original//rename/DispatchedLoad.v
+Searching for ../cores/core-original//dispatch/DispatchedLoad.v
+Searching for ../cores/core-original//issue/DispatchedLoad.v
+Searching for ../cores/core-original//execute/DispatchedLoad.v
+Searching for ../cores/core-original//writeback/DispatchedLoad.v
+Searching for ../cores/core-original//memory/DispatchedLoad.v
+Searching for ./DispatchedStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/DispatchedStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/DispatchedStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/DispatchedStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/DispatchedStore.v
+Searching for ../cores/core-original//DispatchedStore.v
+Searching for ../cores/core-original//fetch/DispatchedStore.v
+Searching for ../cores/core-original//decode/DispatchedStore.v
+Searching for ../cores/core-original//rename/DispatchedStore.v
+Searching for ../cores/core-original//dispatch/DispatchedStore.v
+Searching for ../cores/core-original//issue/DispatchedStore.v
+Searching for ../cores/core-original//execute/DispatchedStore.v
+Searching for ../cores/core-original//writeback/DispatchedStore.v
+Searching for ../cores/core-original//memory/DispatchedStore.v
+Searching for ./CommitLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/CommitLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/CommitLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/CommitLoad.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/CommitLoad.v
+Searching for ../cores/core-original//CommitLoad.v
+Searching for ../cores/core-original//fetch/CommitLoad.v
+Searching for ../cores/core-original//decode/CommitLoad.v
+Searching for ../cores/core-original//rename/CommitLoad.v
+Searching for ../cores/core-original//dispatch/CommitLoad.v
+Searching for ../cores/core-original//issue/CommitLoad.v
+Searching for ../cores/core-original//execute/CommitLoad.v
+Searching for ../cores/core-original//writeback/CommitLoad.v
+Searching for ../cores/core-original//memory/CommitLoad.v
+Searching for ./CommitStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/CommitStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/CommitStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/CommitStore.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/CommitStore.v
+Searching for ../cores/core-original//CommitStore.v
+Searching for ../cores/core-original//fetch/CommitStore.v
+Searching for ../cores/core-original//decode/CommitStore.v
+Searching for ../cores/core-original//rename/CommitStore.v
+Searching for ../cores/core-original//dispatch/CommitStore.v
+Searching for ../cores/core-original//issue/CommitStore.v
+Searching for ../cores/core-original//execute/CommitStore.v
+Searching for ../cores/core-original//writeback/CommitStore.v
+Searching for ../cores/core-original//memory/CommitStore.v
+Searching for ./LoadStoreUnit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/LoadStoreUnit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/LoadStoreUnit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/LoadStoreUnit.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/LoadStoreUnit.v
+Searching for ../cores/core-original//LoadStoreUnit.v
+Searching for ../cores/core-original//fetch/LoadStoreUnit.v
+Searching for ../cores/core-original//decode/LoadStoreUnit.v
+Searching for ../cores/core-original//rename/LoadStoreUnit.v
+Searching for ../cores/core-original//dispatch/LoadStoreUnit.v
+Searching for ../cores/core-original//issue/LoadStoreUnit.v
+Searching for ../cores/core-original//execute/LoadStoreUnit.v
+Searching for ../cores/core-original//writeback/LoadStoreUnit.v
+Searching for ../cores/core-original//memory/LoadStoreUnit.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//memory/DispatchedLoad.v
+Compiling source file ../cores/core-original//memory/DispatchedStore.v
+Compiling source file ../cores/core-original//memory/CommitLoad.v
+Compiling source file ../cores/core-original//memory/CommitStore.v
+Compiling source file ../cores/core-original//memory/LoadStoreUnit.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./WriteBack.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/WriteBack.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/WriteBack.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/WriteBack.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/WriteBack.v
+Searching for ../cores/core-original//WriteBack.v
+Searching for ../cores/core-original//fetch/WriteBack.v
+Searching for ../cores/core-original//decode/WriteBack.v
+Searching for ../cores/core-original//rename/WriteBack.v
+Searching for ../cores/core-original//dispatch/WriteBack.v
+Searching for ../cores/core-original//issue/WriteBack.v
+Searching for ../cores/core-original//execute/WriteBack.v
+Searching for ../cores/core-original//writeback/WriteBack.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//writeback/WriteBack.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./ActiveList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/ActiveList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/ActiveList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/ActiveList.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/ActiveList.v
+Searching for ../cores/core-original//ActiveList.v
+Searching for ../cores/core-original//fetch/ActiveList.v
+Searching for ../cores/core-original//decode/ActiveList.v
+Searching for ../cores/core-original//rename/ActiveList.v
+Searching for ../cores/core-original//dispatch/ActiveList.v
+Searching for ../cores/core-original//issue/ActiveList.v
+Searching for ../cores/core-original//execute/ActiveList.v
+Searching for ../cores/core-original//writeback/ActiveList.v
+Searching for ../cores/core-original//memory/ActiveList.v
+Searching for ../cores/core-original//retire/ActiveList.v
+Searching for ./ArchMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/ArchMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/ArchMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/ArchMapTable.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/ArchMapTable.v
+Searching for ../cores/core-original//ArchMapTable.v
+Searching for ../cores/core-original//fetch/ArchMapTable.v
+Searching for ../cores/core-original//decode/ArchMapTable.v
+Searching for ../cores/core-original//rename/ArchMapTable.v
+Searching for ../cores/core-original//dispatch/ArchMapTable.v
+Searching for ../cores/core-original//issue/ArchMapTable.v
+Searching for ../cores/core-original//execute/ArchMapTable.v
+Searching for ../cores/core-original//writeback/ArchMapTable.v
+Searching for ../cores/core-original//memory/ArchMapTable.v
+Searching for ../cores/core-original//retire/ArchMapTable.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//retire/ActiveList.v
+Compiling source file ../cores/core-original//retire/ArchMapTable.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Error: can't read "pmem": no such variable
+	Use error_info for more info. (CMD-013)
+Running PRESTO HDLC
+Searching for ./FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FabScalarParam.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FabScalarParam.v
+Searching for ../cores/core-original//FabScalarParam.v
+Searching for ./SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/SimpleScalar_ISA.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/SimpleScalar_ISA.v
+Searching for ../cores/core-original//SimpleScalar_ISA.v
+Searching for ../cores/core-original//fetch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//decode/SimpleScalar_ISA.v
+Searching for ../cores/core-original//rename/SimpleScalar_ISA.v
+Searching for ../cores/core-original//dispatch/SimpleScalar_ISA.v
+Searching for ../cores/core-original//issue/SimpleScalar_ISA.v
+Searching for ../cores/core-original//execute/SimpleScalar_ISA.v
+Searching for ../cores/core-original//writeback/SimpleScalar_ISA.v
+Searching for ../cores/core-original//memory/SimpleScalar_ISA.v
+Searching for ../cores/core-original//retire/SimpleScalar_ISA.v
+Searching for ../cores/core-original//pmems/SimpleScalar_ISA.v
+Searching for ../cores/core-original//ISA/SimpleScalar_ISA.v
+Searching for ./Interface.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/Interface.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/Interface.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/Interface.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/Interface.v
+Searching for ../cores/core-original//Interface.v
+Searching for ../cores/core-original//fetch/Interface.v
+Searching for ../cores/core-original//decode/Interface.v
+Searching for ../cores/core-original//rename/Interface.v
+Searching for ../cores/core-original//dispatch/Interface.v
+Searching for ../cores/core-original//issue/Interface.v
+Searching for ../cores/core-original//execute/Interface.v
+Searching for ../cores/core-original//writeback/Interface.v
+Searching for ../cores/core-original//memory/Interface.v
+Searching for ../cores/core-original//retire/Interface.v
+Searching for ../cores/core-original//pmems/Interface.v
+Searching for ../cores/core-original//ISA/Interface.v
+Searching for ../cores/core-original//fabscalar/Interface.v
+Searching for ./FABSCALAR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/FABSCALAR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/minpower/syn/FABSCALAR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/syn_ver/FABSCALAR.v
+Searching for /research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/dw/sim_ver/FABSCALAR.v
+Searching for ../cores/core-original//FABSCALAR.v
+Searching for ../cores/core-original//fetch/FABSCALAR.v
+Searching for ../cores/core-original//decode/FABSCALAR.v
+Searching for ../cores/core-original//rename/FABSCALAR.v
+Searching for ../cores/core-original//dispatch/FABSCALAR.v
+Searching for ../cores/core-original//issue/FABSCALAR.v
+Searching for ../cores/core-original//execute/FABSCALAR.v
+Searching for ../cores/core-original//writeback/FABSCALAR.v
+Searching for ../cores/core-original//memory/FABSCALAR.v
+Searching for ../cores/core-original//retire/FABSCALAR.v
+Searching for ../cores/core-original//pmems/FABSCALAR.v
+Searching for ../cores/core-original//ISA/FABSCALAR.v
+Searching for ../cores/core-original//fabscalar/FABSCALAR.v
+Compiling source file ../cores/core-original//FabScalarParam.v
+Compiling source file ../cores/core-original//ISA/SimpleScalar_ISA.v
+Compiling source file ../cores/core-original//fabscalar/Interface.v
+Compiling source file ../cores/core-original//fabscalar/FABSCALAR.v
+Presto compilation completed successfully.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Loading db file '/research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/gtech.db'
+Loading db file '/research/brg/install/bare-pkgs/x86_64-centos6/pkgs/synopsys-dc-2011.09-SP3/libraries/syn/standard.sldb'
+  Loading link library 'gtech'
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Running PRESTO HDLC
+Presto compilation completed successfully.
+Elaborated 1 design.
+Current design is now 'FABSCALAR'.
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Information: Building the design 'Interface'. (HDL-193)
+
+Inferred memory devices in process
+	in routine Interface line 33 in file
+		'../cores/core-original//fabscalar/Interface.v'.
+==================================================================================
+|     Register Name      |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+==================================================================================
+| missAddrL1ICache_o_reg | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+| wrL1ICacheEnable_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|  wrAddrL1ICache_o_reg  | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+| wrBlockL1ICache_o_reg  | Flip-flop |  256  |  Y  | N  | N  | N  | N  | N  | N  |
+|   missL1ICache_o_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+==================================================================================
+Presto compilation completed successfully.
+Information: Building the design 'FetchStage1'. (HDL-193)
+
+Statistics for case statements in always block at line 246 in file
+	'../cores/core-original//fetch/FetchStage1.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           266            |     no/auto      |
+===============================================
+
+Statistics for case statements in always block at line 315 in file
+	'../cores/core-original//fetch/FetchStage1.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           319            |     no/auto      |
+===============================================
+
+Statistics for case statements in always block at line 361 in file
+	'../cores/core-original//fetch/FetchStage1.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           364            |     no/auto      |
+===============================================
+
+Inferred memory devices in process
+	in routine FetchStage1 line 421 in file
+		'../cores/core-original//fetch/FetchStage1.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|       PC_reg        | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Information: Building the design 'Fetch1Fetch2'. (HDL-193)
+
+Inferred memory devices in process
+	in routine Fetch1Fetch2 line 72 in file
+		'../cores/core-original//fetch/Fetch1Fetch2.v'.
+===================================================================================
+|      Register Name      |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===================================================================================
+|    prediction3_o_reg    | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|     fs1Ready_o_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|        pc_o_reg         | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+| instructionBundle_o_reg | Flip-flop |  256  |  Y  | N  | N  | N  | N  | N  | N  |
+|      btbHit0_o_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    targetAddr0_o_reg    | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    prediction0_o_reg    | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|      btbHit1_o_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    targetAddr1_o_reg    | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    prediction1_o_reg    | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|      btbHit2_o_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    targetAddr2_o_reg    | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    prediction2_o_reg    | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|      btbHit3_o_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    targetAddr3_o_reg    | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+===================================================================================
+Presto compilation completed successfully.
+Information: Building the design 'FetchStage2'. (HDL-193)
+
+Statistics for case statements in always block at line 216 in file
+	'../cores/core-original//fetch/FetchStage2.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           250            |     no/auto      |
+===============================================
+
+Inferred memory devices in process
+	in routine FetchStage2 line 216 in file
+		'../cores/core-original//fetch/FetchStage2.v'.
+===========================================================================
+|    Register Name    | Type  | Width | Bus | MB | AR | AS | SR | SS | ST |
+===========================================================================
+|     callPC_reg      | Latch |  32   |  Y  | N  | N  | N  | -  | -  | -  |
+|   targetAddr_reg    | Latch |  32   |  Y  | N  | N  | N  | -  | -  | -  |
+===========================================================================
+Presto compilation completed successfully.
+Information: Building the design 'Fetch2Decode'. (HDL-193)
+
+Inferred memory devices in process
+	in routine Fetch2Decode line 58 in file
+		'../cores/core-original//fetch/Fetch2Decode.v'.
+==================================================================================
+|     Register Name      |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+==================================================================================
+|    updateDir_o_reg     | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|     updateEn_o_reg     | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|     updatePC_o_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+| updateTargetAddr_o_reg | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|  updateCtrlType_o_reg  | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+==================================================================================
+
+Inferred memory devices in process
+	in routine Fetch2Decode line 79 in file
+		'../cores/core-original//fetch/Fetch2Decode.v'.
+===================================================================================
+|      Register Name      |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===================================================================================
+|    inst3Packet_o_reg    | Flip-flop |  133  |  Y  | N  | N  | N  | N  | N  | N  |
+|     fs2Ready_o_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| instruction0Valid_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    inst0Packet_o_reg    | Flip-flop |  133  |  Y  | N  | N  | N  | N  | N  | N  |
+| instruction1Valid_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    inst1Packet_o_reg    | Flip-flop |  133  |  Y  | N  | N  | N  | N  | N  | N  |
+| instruction2Valid_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    inst2Packet_o_reg    | Flip-flop |  133  |  Y  | N  | N  | N  | N  | N  | N  |
+| instruction3Valid_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+===================================================================================
+Presto compilation completed successfully.
+Information: Building the design 'Decode'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+
+Inferred memory devices in process
+	in routine Decode line 165 in file
+		'../cores/core-original//decode/Decode.v'.
+===========================================================================
+|    Register Name    | Type  | Width | Bus | MB | AR | AS | SR | SS | ST |
+===========================================================================
+| decodedPacket_f_reg | Latch |  27   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  27   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  27   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  27   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  27   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  27   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  27   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  29   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  49   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |  48   |  Y  | N  | N  | N  | -  | -  | -  |
+| decodedPacket_f_reg | Latch |   7   |  N  | N  | N  | N  | -  | -  | -  |
+===========================================================================
+Presto compilation completed successfully.
+Information: Building the design 'InstructionBuffer'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//decode/InstructionBuffer.v:180: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//decode/InstructionBuffer.v:215: signed to unsigned conversion occurs. (VER-318)
+
+Inferred memory devices in process
+	in routine InstructionBuffer line 194 in file
+		'../cores/core-original//decode/InstructionBuffer.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     headPtr_reg     | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine InstructionBuffer line 243 in file
+		'../cores/core-original//decode/InstructionBuffer.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     tailPtr_reg     | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine InstructionBuffer line 289 in file
+		'../cores/core-original//decode/InstructionBuffer.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    instCount_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Information: Building the design 'InstBufRename'. (HDL-193)
+
+Inferred memory devices in process
+	in routine InstBufRename line 54 in file
+		'../cores/core-original//decode/InstBufRename.v'.
+=================================================================================
+|     Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+=================================================================================
+|   branchCount_o_reg   | Flip-flop |   3   |  Y  | N  | N  | N  | N  | N  | N  |
+| instBufferReady_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| decodedPacket0_o_reg  | Flip-flop |  126  |  Y  | N  | N  | N  | N  | N  | N  |
+| decodedPacket1_o_reg  | Flip-flop |  126  |  Y  | N  | N  | N  | N  | N  | N  |
+| decodedPacket2_o_reg  | Flip-flop |  126  |  Y  | N  | N  | N  | N  | N  | N  |
+| decodedPacket3_o_reg  | Flip-flop |  126  |  Y  | N  | N  | N  | N  | N  | N  |
+=================================================================================
+Presto compilation completed successfully.
+Information: Building the design 'Rename'. (HDL-193)
+Presto compilation completed successfully.
+Information: Building the design 'RenameDispatch'. (HDL-193)
+
+Inferred memory devices in process
+	in routine RenameDispatch line 60 in file
+		'../cores/core-original//rename/RenameDispatch.v'.
+================================================================================
+|    Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+================================================================================
+| renamedPacket3_o_reg | Flip-flop |  145  |  Y  | N  | N  | N  | N  | N  | N  |
+|  renameReady_o_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| renamedPacket0_o_reg | Flip-flop |  145  |  Y  | N  | N  | N  | N  | N  | N  |
+| renamedPacket1_o_reg | Flip-flop |  145  |  Y  | N  | N  | N  | N  | N  | N  |
+| renamedPacket2_o_reg | Flip-flop |  145  |  Y  | N  | N  | N  | N  | N  | N  |
+================================================================================
+Presto compilation completed successfully.
+Information: Building the design 'Dispatch'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//dispatch/Dispatch.v:252: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//dispatch/Dispatch.v:260: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//dispatch/Dispatch.v:268: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//dispatch/Dispatch.v:276: signed to unsigned conversion occurs. (VER-318)
+Presto compilation completed successfully.
+Information: Building the design 'IssueQueue'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//issue/IssueQueue.v:778: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:805: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:810: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:815: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:820: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:851: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:851: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:859: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:859: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:882: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:882: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:920: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:920: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:928: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:928: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:1044: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:1048: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:1052: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQueue.v:1056: signed to unsigned conversion occurs. (VER-318)
+
+Inferred memory devices in process
+	in routine IssueQueue line 939 in file
+		'../cores/core-original//issue/IssueQueue.v'.
+================================================================================
+|    Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+================================================================================
+|   ISSUEQ_VALID_reg   | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_SCHEDULED_reg | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+================================================================================
+
+Inferred memory devices in process
+	in routine IssueQueue line 966 in file
+		'../cores/core-original//issue/IssueQueue.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ISSUEQ_FU_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine IssueQueue line 1029 in file
+		'../cores/core-original//issue/IssueQueue.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|   BRANCH_MASK_reg   | Flip-flop |  128  |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine IssueQueue line 1074 in file
+		'../cores/core-original//issue/IssueQueue.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+| SRC1_REG_VALID_reg  | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+| SRC0_REG_VALID_reg  | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|  IssueQueue/628  |   32   |    4    |      5       | N  |
+|  IssueQueue/628  |   4    |   38    |      2       | N  |
+|  IssueQueue/629  |   32   |    4    |      5       | N  |
+|  IssueQueue/630  |   32   |    4    |      5       | N  |
+|  IssueQueue/631  |   32   |    4    |      5       | N  |
+|  IssueQueue/632  |   32   |    4    |      5       | N  |
+|  IssueQueue/633  |   32   |    4    |      5       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'IssueqRegRead'. (HDL-193)
+
+Inferred memory devices in process
+	in routine IssueqRegRead line 74 in file
+		'../cores/core-original//issue/issueqRegRead.v'.
+================================================================================
+|    Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+================================================================================
+| grantedValid4_o_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| grantedPacket4_o_reg | Flip-flop |  138  |  Y  | N  | N  | N  | N  | N  | N  |
+| grantedPacket3_o_reg | Flip-flop |  138  |  Y  | N  | N  | N  | N  | N  | N  |
+| grantedPacket2_o_reg | Flip-flop |  138  |  Y  | N  | N  | N  | N  | N  | N  |
+| grantedPacket1_o_reg | Flip-flop |  138  |  Y  | N  | N  | N  | N  | N  | N  |
+| grantedPacket0_o_reg | Flip-flop |  138  |  Y  | N  | N  | N  | N  | N  | N  |
+| grantedValid5_o_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| grantedPacket5_o_reg | Flip-flop |  138  |  Y  | N  | N  | N  | N  | N  | N  |
+| grantedValid0_o_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| grantedValid1_o_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| grantedValid2_o_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| grantedValid3_o_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+================================================================================
+Presto compilation completed successfully.
+Information: Building the design 'RegRead'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+
+Statistics for case statements in always block at line 650 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           652            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 663 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           665            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 676 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           678            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 689 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           691            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 702 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           704            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 715 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           717            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 728 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           730            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 741 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           743            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 754 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           756            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 767 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           769            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 780 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           782            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 793 in file
+	'../cores/core-original//issue/RegRead.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           795            |    auto/auto     |
+===============================================
+
+Inferred memory devices in process
+	in routine RegRead line 868 in file
+		'../cores/core-original//issue/RegRead.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|  PHY_REG_VALID_reg  | Flip-flop |  96   |  N  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|   RegRead/827    |   4    |    6    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'RegReadExecute'. (HDL-193)
+
+Inferred memory devices in process
+	in routine RegReadExecute line 400 in file
+		'../cores/core-original//issue/RegReadExecute.v'.
+================================================================================
+|    Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+================================================================================
+| fuPacketValid2_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| fuPacketValid5_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   fuPacket4_o_reg    | Flip-flop |  195  |  Y  | N  | N  | N  | N  | N  | N  |
+| fuPacketValid4_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   fuPacket3_o_reg    | Flip-flop |  124  |  Y  | N  | N  | N  | N  | N  | N  |
+| fuPacketValid3_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   fuPacket2_o_reg    | Flip-flop |  124  |  Y  | N  | N  | N  | N  | N  | N  |
+|   fuPacket5_o_reg    | Flip-flop |  129  |  Y  | N  | N  | N  | N  | N  | N  |
+| fuPacketValid0_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   fuPacket0_o_reg    | Flip-flop |  124  |  Y  | N  | N  | N  | N  | N  | N  |
+| fuPacketValid1_o_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   fuPacket1_o_reg    | Flip-flop |  124  |  Y  | N  | N  | N  | N  | N  | N  |
+================================================================================
+Presto compilation completed successfully.
+Information: Building the design 'Execute'. (HDL-193)
+Presto compilation completed successfully.
+Information: Building the design 'WriteBack'. (HDL-193)
+
+Inferred memory devices in process
+	in routine WriteBack line 379 in file
+		'../cores/core-original//writeback/WriteBack.v'.
+=================================================================================
+|     Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+=================================================================================
+|  exePacketValid2_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|  lsuPacketValid0_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    lsuPacket0_reg     | Flip-flop |  62   |  Y  | N  | N  | N  | N  | N  | N  |
+|  exePacketValid4_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    exePacket4_reg     | Flip-flop |  96   |  Y  | N  | N  | N  | N  | N  | N  |
+|  exePacketValid3_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    exePacket3_reg     | Flip-flop |  59   |  Y  | N  | N  | N  | N  | N  | N  |
+| ldViolationPacket_reg | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|    exePacket0_reg     | Flip-flop |  59   |  Y  | N  | N  | N  | N  | N  | N  |
+|  exePacketValid0_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    exePacket1_reg     | Flip-flop |  59   |  Y  | N  | N  | N  | N  | N  | N  |
+|  exePacketValid1_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    exePacket2_reg     | Flip-flop |  59   |  Y  | N  | N  | N  | N  | N  | N  |
+=================================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|  WriteBack/249   |   4    |    6    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'AgenLsu'. (HDL-193)
+
+Inferred memory devices in process
+	in routine AgenLsu line 67 in file
+		'../cores/core-original//execute/AgenLsu.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|   exePacket3_reg    | Flip-flop |  108  |  Y  | N  | N  | N  | N  | N  | N  |
+| exePacketValid3_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|    AgenLsu/60    |   4    |    1    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'LSU'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:342: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:342: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:351: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:351: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:393: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:434: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:434: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:443: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:443: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:507: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//memory/LoadStoreUnit.v:629: signed to unsigned conversion occurs. (VER-318)
+
+Statistics for case statements in always block at line 637 in file
+	'../cores/core-original//memory/LoadStoreUnit.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           658            |     no/auto      |
+===============================================
+
+Statistics for case statements in always block at line 788 in file
+	'../cores/core-original//memory/LoadStoreUnit.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           833            |     no/auto      |
+|           1009           |     no/auto      |
+===============================================
+
+Statistics for case statements in always block at line 1147 in file
+	'../cores/core-original//memory/LoadStoreUnit.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           1200           |     no/auto      |
+===============================================
+
+Statistics for case statements in always block at line 1518 in file
+	'../cores/core-original//memory/LoadStoreUnit.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           1529           |     no/auto      |
+===============================================
+
+Inferred memory devices in process
+	in routine LSU line 529 in file
+		'../cores/core-original//memory/LoadStoreUnit.v'.
+===========================================================================
+|    Register Name    | Type  | Width | Bus | MB | AR | AS | SR | SS | ST |
+===========================================================================
+|   lsuPacket0_reg    | Latch |  62   |  Y  | N  | N  | N  | -  | -  | -  |
+===========================================================================
+
+Inferred memory devices in process
+	in routine LSU line 788 in file
+		'../cores/core-original//memory/LoadStoreUnit.v'.
+================================================================================
+|    Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+================================================================================
+|   ldqBranchTag_reg   | Flip-flop |  128  |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqHead_reg      | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqTail_reg      | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqValid_reg     | Flip-flop |  32   |  N  | N  | N  | N  | N  | N  | N  |
+|   ldqAddrValid_reg   | Flip-flop |  32   |  N  | N  | N  | N  | N  | N  | N  |
+| precedingSTvalid_reg | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr2_reg     | Flip-flop |   2   |  N  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   4   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   4   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|       ldq_reg        | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   precedingST_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   ldqSizeofLD_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  13   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  19   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  30   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  15   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  17   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  17   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  15   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  30   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  19   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  13   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   4   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  28   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  11   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  26   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  23   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   9   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   8   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  24   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  25   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  10   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  22   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  27   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  12   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  20   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  29   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   3   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  14   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  18   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  31   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  16   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  16   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |  31   |  Y  | N  | N  | N  | N  | N  | N  |
+|     ldqAddr1_reg     | Flip-flop |   2   |  N  | N  | N  | N  | N  | N  | N  |
+================================================================================
+
+Inferred memory devices in process
+	in routine LSU line 1132 in file
+		'../cores/core-original//memory/LoadStoreUnit.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    ldqCount_reg     | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine LSU line 1147 in file
+		'../cores/core-original//memory/LoadStoreUnit.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     stqHead_reg     | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|  stqBranchTag_reg   | Flip-flop |  128  |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqTail_reg     | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqValid_reg     | Flip-flop |  32   |  N  | N  | N  | N  | N  | N  | N  |
+|  stqAddrValid_reg   | Flip-flop |  32   |  N  | N  | N  | N  | N  | N  | N  |
+|  stqCommitPtr_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|     stqData_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr2_reg     | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   stqSizeofST_reg   | Flip-flop |   2   |  N  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stqAddr1_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|   followingLD_reg   | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine LSU line 1518 in file
+		'../cores/core-original//memory/LoadStoreUnit.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    stqCommit_reg    | Flip-flop |  32   |  N  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine LSU line 1557 in file
+		'../cores/core-original//memory/LoadStoreUnit.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    stqCount_reg     | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|     LSU/269      |   32   |    4    |      5       | N  |
+|     LSU/270      |   32   |   30    |      5       | N  |
+|     LSU/270      |   32   |    4    |      5       | N  |
+|     LSU/271      |   32   |   32    |      5       | N  |
+|     LSU/323      |   32   |    8    |      5       | N  |
+|     LSU/335      |   32   |   10    |      5       | N  |
+|     LSU/389      |   32   |    1    |      5       | N  |
+|     LSU/410      |   32   |   32    |      5       | N  |
+|     LSU/508      |   32   |    1    |      5       | N  |
+|     LSU/518      |   32   |    6    |      5       | N  |
+|     LSU/596      |   4    |   64    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'ActiveList'. (HDL-193)
+Warning:  ../cores/core-original//retire/ActiveList.v:493: signed to unsigned conversion occurs. (VER-318)
+
+Statistics for case statements in always block at line 531 in file
+	'../cores/core-original//retire/ActiveList.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           602            |    auto/auto     |
+===============================================
+$display output: TRAP Instruction is being committed
+
+Inferred memory devices in process
+	in routine ActiveList line 777 in file
+		'../cores/core-original//retire/ActiveList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     tailAL_reg      | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine ActiveList line 794 in file
+		'../cores/core-original//retire/ActiveList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     headAL_reg      | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine ActiveList line 809 in file
+		'../cores/core-original//retire/ActiveList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+| activeListCount_reg | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine ActiveList line 825 in file
+		'../cores/core-original//retire/ActiveList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    targetPC_reg     | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|    recoverPC_reg    | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|   exceptionPC_reg   | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|   recoverFlag_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   mispredFlag_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|  exceptionFlag_reg  | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Information: Building the design 'ArchMapTable'. (HDL-193)
+Warning:  ../cores/core-original//retire/ArchMapTable.v:227: signed to unsigned conversion occurs. (VER-318)
+
+Inferred memory devices in process
+	in routine ArchMapTable line 219 in file
+		'../cores/core-original//retire/ArchMapTable.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|   recoverCnt_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Information: Building the design 'BTB'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+
+Statistics for case statements in always block at line 156 in file
+	'../cores/core-original//fetch/BTB.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           158            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 207 in file
+	'../cores/core-original//fetch/BTB.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           217            |    auto/auto     |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'BranchPrediction'. (HDL-193)
+
+Statistics for case statements in always block at line 120 in file
+	'../cores/core-original//fetch/BranchPrediction_2-bit.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           122            |    auto/auto     |
+===============================================
+
+Inferred memory devices in process
+	in routine BranchPrediction line 178 in file
+		'../cores/core-original//fetch/BranchPrediction_2-bit.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|   wr_counter_reg    | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|     wr_dir_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|      wr_en_reg      | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    wr_index_reg     | Flip-flop |  16   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Information: Building the design 'RAS'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+
+Statistics for case statements in always block at line 65 in file
+	'../cores/core-original//fetch/RAS.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            68            |     no/auto      |
+===============================================
+
+Inferred memory devices in process
+	in routine RAS line 91 in file
+		'../cores/core-original//fetch/RAS.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|      stack_reg      | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+|       tos_reg       | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+|     tos_CP_reg      | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|      RAS/55      |   32   |   32    |      5       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'L1ICache'. (HDL-193)
+Warning: Cannot find the design 'L1ICache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CtrlQueue'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+
+Statistics for case statements in always block at line 159 in file
+	'../cores/core-original//fetch/CtrlQueue.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           173            |    auto/auto     |
+===============================================
+
+Statistics for case statements in always block at line 295 in file
+	'../cores/core-original//fetch/CtrlQueue.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           322            |     no/auto      |
+|           350            |    auto/auto     |
+===============================================
+
+Inferred memory devices in process
+	in routine CtrlQueue line 256 in file
+		'../cores/core-original//fetch/CtrlQueue.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    commitPtr_reg    | Flip-flop |   4   |  Y  | N  | N  | N  | N  | N  | N  |
+|     headPtr_reg     | Flip-flop |   4   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine CtrlQueue line 272 in file
+		'../cores/core-original//fetch/CtrlQueue.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    ctrlCount_reg    | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine CtrlQueue line 295 in file
+		'../cores/core-original//fetch/CtrlQueue.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     tailPtr_reg     | Flip-flop |   4   |  Y  | N  | N  | N  | N  | N  | N  |
+|  ctiqCommitted_reg  | Flip-flop |  16   |  N  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo1_reg    | Flip-flop |  33   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+|    ctiqInfo0_reg    | Flip-flop |  34   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|  CtrlQueue/106   |   16   |   64    |      4       | N  |
+|  CtrlQueue/107   |   16   |    2    |      4       | N  |
+|  CtrlQueue/109   |   16   |    2    |      4       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'PreDecode_PISA'. (HDL-193)
+
+Statistics for case statements in always block at line 48 in file
+	'../cores/core-original//decode/PreDecode_PISA.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            63            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'Decode_PISA'. (HDL-193)
+$display output: DSW instruction occured, PC:????????
+
+Statistics for case statements in always block at line 101 in file
+	'../cores/core-original//decode/Decode_PISA.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           134            |    auto/auto     |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'SRAM_8R8W' instantiated from design 'InstructionBuffer' with
+	the parameters "32,5,126". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R8W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SpecFreeList'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:130: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:134: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:138: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:146: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:150: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:154: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:159: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:180: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:185: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:189: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:198: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//rename/SpecFreeList.v:203: signed to unsigned assignment occurs. (VER-318)
+
+Statistics for case statements in always block at line 225 in file
+	'../cores/core-original//rename/SpecFreeList.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           239            |     no/auto      |
+===============================================
+
+Inferred memory devices in process
+	in routine SpecFreeList line 194 in file
+		'../cores/core-original//rename/SpecFreeList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|  freeListHead_reg   | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   freeListCnt_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine SpecFreeList line 415 in file
+		'../cores/core-original//rename/SpecFreeList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|  freeListTail_reg   | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Information: Building the design 'RenameMapTable'. (HDL-193)
+
+Statistics for case statements in always block at line 220 in file
+	'../cores/core-original//rename/RenameMapTable.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           222            |    auto/auto     |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'SRAM_8R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,129". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CAM_4R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,7". (HDL-193)
+Warning: Cannot find the design 'CAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'IssueQFreeList'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//issue/IssueQFreeList.v:163: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQFreeList.v:209: signed to unsigned assignment occurs. (VER-318)
+
+Statistics for case statements in always block at line 204 in file
+	'../cores/core-original//issue/IssueQFreeList.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           217            |     no/auto      |
+===============================================
+
+Inferred memory devices in process
+	in routine IssueQFreeList line 168 in file
+		'../cores/core-original//issue/IssueQFreeList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     headPtr_reg     | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine IssueQFreeList line 183 in file
+		'../cores/core-original//issue/IssueQFreeList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|   issueQCount_reg   | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine IssueQFreeList line 204 in file
+		'../cores/core-original//issue/IssueQFreeList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|     tailPtr_reg     | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+| ISSUEQ_FREELIST_reg | Flip-flop |   5   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+=============================================================
+|  block name/line   | Inputs | Outputs | # sel inputs | MB |
+=============================================================
+| IssueQFreeList/140 |   32   |    5    |      5       | N  |
+| IssueQFreeList/141 |   32   |    5    |      5       | N  |
+| IssueQFreeList/142 |   32   |    5    |      5       | N  |
+| IssueQFreeList/143 |   32   |    5    |      5       | N  |
+=============================================================
+Presto compilation completed successfully.
+Information: Building the design 'Select3'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Presto compilation completed successfully.
+Information: Building the design 'Select'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Presto compilation completed successfully.
+Information: Building the design 'RSR2'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+
+Inferred memory devices in process
+	in routine RSR2 line 123 in file
+		'../cores/core-original//issue/RSR.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|  granted4Dest_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|   branchMask4_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|  validPacket0_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|  granted0Dest_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|   branchMask0_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|  validPacket1_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|  granted1Dest_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|   branchMask1_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|  validPacket2_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|  granted2Dest_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|   branchMask2_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|  validPacket3_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|  granted3Dest_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|   branchMask3_reg   | Flip-flop |   7   |  Y  | N  | N  | N  | N  | N  | N  |
+|  validPacket4_reg   | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine RSR2 line 174 in file
+		'../cores/core-original//issue/RSR.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|    RSR_CALU_reg     | Flip-flop |  14   |  Y  | N  | N  | N  | N  | N  | N  |
+| RSR_CALU_VALID_reg  | Flip-flop |   2   |  Y  | N  | N  | N  | N  | N  | N  |
+|   BRANCH_MASK_reg   | Flip-flop |   8   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|     RSR2/119     |   4    |    2    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'SRAM_12R6W_PIPE' instantiated from design 'RegRead' with
+	the parameters "96,7,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_12R6W_PIPE' in the library 'WORK'. (LBR-1)
+Information: Building the design 'FU0'. (HDL-193)
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|     FU0/105      |   4    |    1    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'FU1'. (HDL-193)
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|     FU1/107      |   4    |    1    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'FU2'. (HDL-193)
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|     FU2/113      |   4    |    1    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'FU3'. (HDL-193)
+Statistics for MUX_OPs
+===========================================================
+| block name/line  | Inputs | Outputs | # sel inputs | MB |
+===========================================================
+|     FU3/110      |   4    |    1    |      2       | N  |
+===========================================================
+Presto compilation completed successfully.
+Information: Building the design 'ForwardCheck'. (HDL-193)
+
+Statistics for case statements in always block at line 49 in file
+	'../cores/core-original//execute/ForwardCheck.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            70            |     no/auto      |
+===============================================
+
+Inferred memory devices in process
+	in routine ForwardCheck line 49 in file
+		'../cores/core-original//execute/ForwardCheck.v'.
+===========================================================================
+|    Register Name    | Type  | Width | Bus | MB | AR | AS | SR | SS | ST |
+===========================================================================
+|     dataOut_reg     | Latch |  32   |  Y  | N  | N  | N  | -  | -  | -  |
+===========================================================================
+Presto compilation completed successfully.
+Information: Building the design 'L1DataCache'. (HDL-193)
+Warning: Cannot find the design 'L1DataCache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'DispatchedLoad'. (HDL-193)
+
+Statistics for case statements in always block at line 73 in file
+	'../cores/core-original//memory/DispatchedLoad.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           104            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'DispatchedStore'. (HDL-193)
+
+Statistics for case statements in always block at line 73 in file
+	'../cores/core-original//memory/DispatchedStore.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           101            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'CommitLoad'. (HDL-193)
+
+Statistics for case statements in always block at line 48 in file
+	'../cores/core-original//memory/CommitLoad.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            59            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'CommitStore'. (HDL-193)
+
+Statistics for case statements in always block at line 50 in file
+	'../cores/core-original//memory/CommitStore.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            61            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,55". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,8". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,1". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_AMT' instantiated from design 'ArchMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_AMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,17". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,35". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_2R1W_HY' instantiated from design 'BranchPrediction' with
+	the parameters "32768,15,2,4,2". (HDL-193)
+Warning: Cannot find the design 'SRAM_2R1W_HY' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_FREELIST' instantiated from design 'SpecFreeList' with
+	the parameters "62,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_FREELIST' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W_RMT' instantiated from design 'RenameMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W_RMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'FreeIssueq'. (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//issue/IssueQFreeList.v:788: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQFreeList.v:788: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQFreeList.v:795: signed to unsigned conversion occurs. (VER-318)
+Warning:  ../cores/core-original//issue/IssueQFreeList.v:795: signed to unsigned conversion occurs. (VER-318)
+
+Inferred memory devices in process
+	in routine FreeIssueq line 808 in file
+		'../cores/core-original//issue/IssueQFreeList.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|   freedVector_reg   | Flip-flop |  32   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Information: Building the design 'Encoder' instantiated from design 'Select3' with
+	the parameters "32,5". (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Warning:  ../cores/core-original//issue/IssueQSelect.v:303: signed to unsigned assignment occurs. (VER-318)
+Presto compilation completed successfully.
+Information: Building the design 'cascadedSelectBlock_c3_8'. (HDL-193)
+
+Statistics for case statements in always block at line 919 in file
+	'../cores/core-original//issue/IssueQSelect.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           925            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'cascadedSelectBlock_c3_4'. (HDL-193)
+
+Statistics for case statements in always block at line 1079 in file
+	'../cores/core-original//issue/IssueQSelect.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           1085           |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'selectBlock_8'. (HDL-193)
+Presto compilation completed successfully.
+Information: Building the design 'selectBlock_4'. (HDL-193)
+Presto compilation completed successfully.
+Information: Building the design 'Simple_ALU'. (HDL-193)
+Warning:  ../cores/core-original//execute/Simple_ALU.v:168: unsigned to signed assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Simple_ALU.v:169: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Simple_ALU.v:174: unsigned to signed assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Simple_ALU.v:175: signed to unsigned assignment occurs. (VER-318)
+
+Statistics for case statements in always block at line 45 in file
+	'../cores/core-original//execute/Simple_ALU.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            60            |     no/auto      |
+|           180            |    auto/auto     |
+|           190            |    auto/auto     |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'Complex_ALU'. (HDL-193)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:48: unsigned to signed assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:49: unsigned to signed assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:64: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:65: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:70: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:71: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:88: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:89: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:94: signed to unsigned assignment occurs. (VER-318)
+Warning:  ../cores/core-original//execute/Complex_ALU.v:95: signed to unsigned assignment occurs. (VER-318)
+
+Statistics for case statements in always block at line 51 in file
+	'../cores/core-original//execute/Complex_ALU.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            61            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'Ctrl_ALU'. (HDL-193)
+
+Statistics for case statements in always block at line 56 in file
+	'../cores/core-original//execute/Ctrl_ALU.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            71            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'AGEN'. (HDL-193)
+
+Statistics for case statements in always block at line 45 in file
+	'../cores/core-original//execute/AGEN.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            58            |     no/auto      |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'selectFromBlock_1'. (HDL-193)
+
+Statistics for case statements in always block at line 866 in file
+	'../cores/core-original//issue/IssueQFreeList.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           868            |    auto/auto     |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'selectFromBlock_0'. (HDL-193)
+
+Statistics for case statements in always block at line 921 in file
+	'../cores/core-original//issue/IssueQFreeList.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           923            |    auto/auto     |
+===============================================
+Presto compilation completed successfully.
+Information: Building the design 'PriorityEncoder' instantiated from design 'cascadedSelectBlock_c3_8' with
+	the parameters "24". (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Presto compilation completed successfully.
+Information: Building the design 'PriorityEncoder' instantiated from design 'cascadedSelectBlock_c3_4' with
+	the parameters "12". (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Presto compilation completed successfully.
+Information: Building the design 'PriorityEncoder' instantiated from design 'selectBlock_8' with
+	the parameters "8". (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Presto compilation completed successfully.
+Information: Building the design 'PriorityEncoder' instantiated from design 'selectBlock_4' with
+	the parameters "4". (HDL-193)
+Warning:  Starting with the 2000.11-1 release, the Presto Verilog reader treats Verilog 'integer' types as signed; synthesized result may not match earlier versions of HDL Compiler. (VER-314)
+Presto compilation completed successfully.
+Warning: Design 'FABSCALAR' has '12' unresolved references. For more detailed information, use the "link" command. (UID-341)
+1

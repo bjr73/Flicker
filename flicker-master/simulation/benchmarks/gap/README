@@ -1,0 +1,2 @@
+to run:
+sim_little single_job.p < ref.in

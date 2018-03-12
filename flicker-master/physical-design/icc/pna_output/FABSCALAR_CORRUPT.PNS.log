@@ -1,0 +1,20 @@
+
+Name of design : FABSCALAR_CORRUPT
+Number of cell instance masters in the library : 46
+Number of cell instances in the design : 39083
+Processing net VDD ...
+Average power dissipation in FABSCALAR_CORRUPT :  1000.00 mW
+Power supply voltage :     1.20 V
+Average current in FABSCALAR_CORRUPT :   833.33 mA
+Number of power pad nodes reaching to the power ports of the leaf cells or blocks : 124
+Maximum IR drop in FABSCALAR_CORRUPT : 125.85 mV
+Maximum current in FABSCALAR_CORRUPT : 14.182 mA
+Processing net VSS ...
+Average power dissipation in FABSCALAR_CORRUPT :  1000.00 mW
+Power supply voltage :     1.20 V
+Average current in FABSCALAR_CORRUPT :   833.33 mA
+Number of power pad nodes reaching to the power ports of the leaf cells or blocks : 124
+Maximum IR drop in FABSCALAR_CORRUPT : 125.41 mV
+Maximum current in FABSCALAR_CORRUPT : 14.167 mA
+Memory usage for design data :      20144.128 Kbytes
+Overall takes     3.99 seconds

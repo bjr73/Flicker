@@ -1,0 +1,823 @@
+Information: Building the design 'L1ICache'. (HDL-193)
+Warning: Cannot find the design 'L1ICache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R8W' instantiated from design 'InstructionBuffer' with
+	the parameters "32,5,126". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R8W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,129". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CAM_4R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,7". (HDL-193)
+Warning: Cannot find the design 'CAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_12R6W_PIPE' instantiated from design 'RegRead' with
+	the parameters "96,7,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_12R6W_PIPE' in the library 'WORK'. (LBR-1)
+Information: Building the design 'L1DataCache'. (HDL-193)
+Warning: Cannot find the design 'L1DataCache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,55". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,8". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,1". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_AMT' instantiated from design 'ArchMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_AMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,17". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,35". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_2R1W_HY' instantiated from design 'BranchPrediction' with
+	the parameters "32768,15,2,4,2". (HDL-193)
+Warning: Cannot find the design 'SRAM_2R1W_HY' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_FREELIST' instantiated from design 'SpecFreeList' with
+	the parameters "62,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_FREELIST' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W_RMT' instantiated from design 'RenameMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W_RMT' in the library 'WORK'. (LBR-1)
+Warning: Unable to resolve reference 'L1ICache' in 'FetchStage1'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R8W' in 'InstructionBuffer'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'CAM_4R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_12R6W_PIPE' in 'RegRead'. (LINK-5)
+Warning: Unable to resolve reference 'L1DataCache' in 'LSU'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W' in 'ActiveList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_AMT' in 'ArchMapTable'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_1R1W' in 'BTB'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_2R1W_HY' in 'BranchPrediction'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_FREELIST' in 'SpecFreeList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W_RMT' in 'RenameMapTable'. (LINK-5)
+Warning: The compile -map_effort low is obsolete. Setting this variable now defaults to compile -map_effort medium. Please update your script accordingly. (OPT-1303)
+
+Information: There are 13272 potential problems in your design. Please run 'check_design' for more information. (LINT-99)
+
+
+
+  Beginning Pass 1 Mapping
+  ------------------------
+  Processing 'ArchMapTable'
+  Processing 'ActiveList'
+  Processing 'CommitStore'
+  Processing 'CommitLoad'
+  Processing 'DispatchedStore'
+  Processing 'DispatchedLoad'
+  Processing 'LSU'
+Information: The register 'ldqAddr1_reg[31][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[31][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[30][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[30][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[29][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[29][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[28][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[28][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[27][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[27][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[26][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[26][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[25][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[25][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[24][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[24][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[23][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[23][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[22][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[22][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[21][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[21][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[20][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[20][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[19][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[19][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[18][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[18][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[17][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[17][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[16][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[16][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[15][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[15][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[14][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[14][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[13][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[13][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[12][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[12][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[11][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[11][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[10][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[10][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[9][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[9][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[8][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[8][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[7][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[7][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[6][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[6][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[5][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[5][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[4][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[4][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[3][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[3][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[2][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[2][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[1][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[1][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[0][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'ldqAddr1_reg[0][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[31][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[31][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[30][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[30][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[29][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[29][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[28][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[28][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[27][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[27][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[26][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[26][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[25][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[25][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[24][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[24][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[23][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[23][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[22][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[22][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[21][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[21][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[20][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[20][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[19][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[19][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[18][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[18][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[17][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[17][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[16][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[16][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[15][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[15][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[14][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[14][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[13][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[13][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[12][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[12][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[11][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[11][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[10][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[10][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[9][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[9][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[8][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[8][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[7][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[7][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[6][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[6][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[5][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[5][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[4][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[4][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[3][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[3][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[2][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[2][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[1][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[1][30]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[0][31]' is a constant and will be removed. (OPT-1206)
+Information: The register 'stqAddr1_reg[0][30]' is a constant and will be removed. (OPT-1206)
+  Processing 'AgenLsu'
+  Processing 'WriteBack'
+Information: The register 'lsuPacket0_reg[58]' will be removed. (OPT-1207)
+Information: The register 'lsuPacket0_reg[60]' will be removed. (OPT-1207)
+Information: The register 'lsuPacket0_reg[59]' will be removed. (OPT-1207)
+Information: The register 'lsuPacket0_reg[61]' will be removed. (OPT-1207)
+Information: The register 'exePacket4_reg[102]' will be removed. (OPT-1207)
+Information: The register 'exePacket4_reg[104]' will be removed. (OPT-1207)
+Information: The register 'exePacket4_reg[103]' will be removed. (OPT-1207)
+Information: The register 'exePacket4_reg[105]' will be removed. (OPT-1207)
+Information: The register 'exePacket3_reg[102]' will be removed. (OPT-1207)
+Information: The register 'exePacket3_reg[104]' will be removed. (OPT-1207)
+Information: The register 'exePacket3_reg[103]' will be removed. (OPT-1207)
+Information: The register 'exePacket3_reg[105]' will be removed. (OPT-1207)
+Information: The register 'exePacket2_reg[102]' will be removed. (OPT-1207)
+Information: The register 'exePacket2_reg[104]' will be removed. (OPT-1207)
+Information: The register 'exePacket2_reg[103]' will be removed. (OPT-1207)
+Information: The register 'exePacket2_reg[105]' will be removed. (OPT-1207)
+Information: The register 'exePacket1_reg[102]' will be removed. (OPT-1207)
+Information: The register 'exePacket1_reg[104]' will be removed. (OPT-1207)
+Information: The register 'exePacket1_reg[103]' will be removed. (OPT-1207)
+Information: The register 'exePacket1_reg[105]' will be removed. (OPT-1207)
+Information: The register 'exePacket0_reg[102]' will be removed. (OPT-1207)
+Information: The register 'exePacket0_reg[104]' will be removed. (OPT-1207)
+Information: The register 'exePacket0_reg[103]' will be removed. (OPT-1207)
+Information: The register 'exePacket0_reg[105]' will be removed. (OPT-1207)
+  Processing 'ForwardCheck_0'
+  Processing 'ForwardCheck_1'
+  Processing 'AGEN'
+  Processing 'FU3'
+  Processing 'Ctrl_ALU'
+  Processing 'FU2'
+  Processing 'Complex_ALU'
+  Processing 'FU1'
+  Processing 'Simple_ALU_0'
+  Processing 'FU0_0'
+  Processing 'Simple_ALU_1'
+  Processing 'FU0_1'
+  Processing 'Execute'
+  Processing 'RegReadExecute'
+  Processing 'RegRead'
+  Processing 'IssueqRegRead'
+  Processing 'RSR2'
+Information: The register 'branchMask3_reg[4]' will be removed. (OPT-1207)
+Information: The register 'branchMask3_reg[5]' will be removed. (OPT-1207)
+Information: The register 'branchMask3_reg[6]' will be removed. (OPT-1207)
+Information: The register 'branchMask2_reg[4]' will be removed. (OPT-1207)
+Information: The register 'branchMask2_reg[5]' will be removed. (OPT-1207)
+Information: The register 'branchMask2_reg[6]' will be removed. (OPT-1207)
+Information: The register 'branchMask1_reg[4]' will be removed. (OPT-1207)
+Information: The register 'branchMask1_reg[5]' will be removed. (OPT-1207)
+Information: The register 'branchMask1_reg[6]' will be removed. (OPT-1207)
+Information: The register 'branchMask0_reg[4]' will be removed. (OPT-1207)
+Information: The register 'branchMask0_reg[5]' will be removed. (OPT-1207)
+Information: The register 'branchMask0_reg[6]' will be removed. (OPT-1207)
+Information: The register 'branchMask4_reg[4]' will be removed. (OPT-1207)
+Information: The register 'branchMask4_reg[5]' will be removed. (OPT-1207)
+Information: The register 'branchMask4_reg[6]' will be removed. (OPT-1207)
+  Processing 'PriorityEncoder_ENCODER_WIDTH4_0'
+  Processing 'selectBlock_4_0'
+  Processing 'PriorityEncoder_ENCODER_WIDTH8_0'
+  Processing 'selectBlock_8_0'
+  Processing 'PriorityEncoder_ENCODER_WIDTH8_1'
+  Processing 'selectBlock_8_1'
+  Processing 'Encoder_ENCODER_WIDTH32_ENCODER_WIDTH_LOG5_0'
+  Processing 'Select_0'
+  Processing 'PriorityEncoder_ENCODER_WIDTH4_1'
+  Processing 'selectBlock_4_1'
+  Processing 'Select_1'
+  Processing 'PriorityEncoder_ENCODER_WIDTH12_0'
+  Processing 'PriorityEncoder_ENCODER_WIDTH12_1'
+  Processing 'cascadedSelectBlock_c3_4'
+  Processing 'PriorityEncoder_ENCODER_WIDTH24_0'
+  Processing 'PriorityEncoder_ENCODER_WIDTH24_1'
+  Processing 'cascadedSelectBlock_c3_8_0'
+  Processing 'cascadedSelectBlock_c3_8_1'
+  Processing 'Select3'
+  Processing 'selectFromBlock_0_0'
+  Processing 'selectFromBlock_1_0'
+  Processing 'FreeIssueq'
+  Processing 'IssueQFreeList'
+  Processing 'IssueQueue'
+  Processing 'Dispatch'
+  Processing 'RenameDispatch'
+  Processing 'RenameMapTable'
+Warning: Cell 'U59/U1' (*GEN*56391) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U60/U1' (*GEN*56390) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U61/U1' (*GEN*56389) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U62/U1' (*GEN*56388) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+  Processing 'SpecFreeList'
+Warning: Cell 'U10/U1' (*GEN*56283) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U11/U1' (*GEN*56282) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U12/U1' (*GEN*56281) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U57/U1' (*GEN*56279) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U58/U1' (*GEN*56278) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U59/U1' (*GEN*56277) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U60/U1' (*GEN*56276) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U61/U1' (*GEN*56275) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U62/U1' (*GEN*56274) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U63/U1' (*GEN*56273) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U64/U1' (*GEN*56272) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'C507' (GTECH_OR5) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+  Processing 'Rename'
+  Processing 'InstBufRename'
+  Processing 'InstructionBuffer'
+  Processing 'Decode_PISA_0'
+  Processing 'Decode_PISA_1'
+  Processing 'Decode'
+  Processing 'Fetch2Decode'
+  Processing 'PreDecode_PISA_0'
+  Processing 'PreDecode_PISA_1'
+  Processing 'CtrlQueue'
+  Processing 'FetchStage2'
+  Processing 'Fetch1Fetch2'
+  Processing 'RAS'
+  Processing 'BranchPrediction'
+Warning: Cell 'U4/U1' (*GEN*52381) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U6/U1' (*GEN*52379) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+  Processing 'BTB'
+Warning: Cell 'U4/U1' (*GEN*52150) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U5/U1' (*GEN*52149) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U6/U1' (*GEN*52148) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+Warning: Cell 'U7/U1' (*GEN*52147) cannot be exactly translated 1 for 1 into target library.  Ignoring set_compile_directives. (TRANS-9)
+  Processing 'FetchStage1'
+  Processing 'Interface'
+  Processing 'FABSCALAR'
+Information: Building the design 'L1ICache'. (HDL-193)
+Warning: Cannot find the design 'L1ICache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R8W' instantiated from design 'InstructionBuffer' with
+	the parameters "32,5,126". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R8W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,129". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CAM_4R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,7". (HDL-193)
+Warning: Cannot find the design 'CAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_12R6W_PIPE' instantiated from design 'RegRead' with
+	the parameters "96,7,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_12R6W_PIPE' in the library 'WORK'. (LBR-1)
+Information: Building the design 'L1DataCache'. (HDL-193)
+Warning: Cannot find the design 'L1DataCache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,55". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,8". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,1". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_AMT' instantiated from design 'ArchMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_AMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,17". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,35". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_2R1W_HY' instantiated from design 'BranchPrediction' with
+	the parameters "32768,15,2,4,2". (HDL-193)
+Warning: Cannot find the design 'SRAM_2R1W_HY' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_FREELIST' instantiated from design 'SpecFreeList' with
+	the parameters "62,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_FREELIST' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W_RMT' instantiated from design 'RenameMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W_RMT' in the library 'WORK'. (LBR-1)
+Warning: Unable to resolve reference 'L1ICache' in 'FetchStage1'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R8W' in 'InstructionBuffer'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'CAM_4R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_12R6W_PIPE' in 'RegRead'. (LINK-5)
+Warning: Unable to resolve reference 'L1DataCache' in 'LSU'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W' in 'ActiveList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_AMT' in 'ArchMapTable'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_1R1W' in 'BTB'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_2R1W_HY' in 'BranchPrediction'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_FREELIST' in 'SpecFreeList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W_RMT' in 'RenameMapTable'. (LINK-5)
+
+  Updating timing information
+Information: Updating design information... (UID-85)
+
+  Beginning Implementation Selection
+  ----------------------------------
+  Mapping 'Simple_ALU_1_DW_cmp_0'
+  Mapping 'Simple_ALU_1_DW_rightsh_0'
+  Mapping 'Simple_ALU_1_DW_rightsh_1'
+  Mapping 'Simple_ALU_1_DW_rightsh_2'
+  Mapping 'Simple_ALU_1_DW_rightsh_3'
+  Mapping 'Simple_ALU_1_DW_leftsh_0'
+  Mapping 'Simple_ALU_1_DW_leftsh_1'
+  Mapping 'Simple_ALU_1_DW_cmp_1'
+  Mapping 'Simple_ALU_1_DW_cmp_2'
+  Processing 'Simple_ALU_1_DW01_sub_0'
+  Processing 'Simple_ALU_1_DW01_add_0'
+  Processing 'Simple_ALU_1_DW01_add_1'
+  Mapping 'Simple_ALU_2_DW_cmp_0'
+  Mapping 'Simple_ALU_2_DW_rightsh_0'
+  Mapping 'Simple_ALU_2_DW_rightsh_1'
+  Mapping 'Simple_ALU_2_DW_rightsh_2'
+  Mapping 'Simple_ALU_2_DW_rightsh_3'
+  Mapping 'Simple_ALU_2_DW_leftsh_0'
+  Mapping 'Simple_ALU_2_DW_leftsh_1'
+  Mapping 'Simple_ALU_2_DW_cmp_1'
+  Mapping 'Simple_ALU_2_DW_cmp_2'
+  Processing 'Simple_ALU_2_DW01_sub_0'
+  Processing 'Simple_ALU_2_DW01_add_0'
+  Processing 'Simple_ALU_2_DW01_add_1'
+  Processing 'Decode_PISA_1_DW01_add_0'
+  Processing 'Decode_PISA_1_DW01_inc_0'
+  Processing 'Decode_PISA_2_DW01_add_0'
+  Processing 'Decode_PISA_2_DW01_inc_0'
+  Processing 'Decode_PISA_3_DW01_add_0'
+  Processing 'Decode_PISA_3_DW01_inc_0'
+  Processing 'PreDecode_PISA_1_DW01_add_0'
+  Processing 'PreDecode_PISA_1_DW01_add_1'
+  Processing 'PreDecode_PISA_2_DW01_add_0'
+  Processing 'PreDecode_PISA_2_DW01_add_1'
+  Processing 'PreDecode_PISA_3_DW01_add_0'
+  Processing 'PreDecode_PISA_3_DW01_add_1'
+
+  Beginning Mapping Optimizations  (Medium effort)
+  -------------------------------
+  Mapping Optimization (Phase 1)
+  Mapping Optimization (Phase 2)
+  Mapping Optimization (Phase 3)
+  Mapping Optimization (Phase 4)
+  Mapping Optimization (Phase 5)
+  Mapping Optimization (Phase 6)
+  Mapping Optimization (Phase 7)
+  Mapping Optimization (Phase 8)
+  Mapping Optimization (Phase 9)
+  Mapping Optimization (Phase 10)
+  Mapping Optimization (Phase 11)
+  Mapping Optimization (Phase 12)
+  Mapping Optimization (Phase 13)
+  Mapping Optimization (Phase 14)
+  Mapping Optimization (Phase 15)
+  Mapping Optimization (Phase 16)
+  Mapping Optimization (Phase 17)
+  Mapping Optimization (Phase 18)
+  Mapping Optimization (Phase 19)
+  Mapping Optimization (Phase 20)
+  Mapping Optimization (Phase 21)
+  Mapping Optimization (Phase 22)
+  Mapping Optimization (Phase 23)
+  Mapping Optimization (Phase 24)
+  Mapping Optimization (Phase 25)
+  Mapping Optimization (Phase 26)
+  Mapping Optimization (Phase 27)
+  Mapping Optimization (Phase 28)
+  Mapping Optimization (Phase 29)
+  Mapping Optimization (Phase 30)
+  Mapping Optimization (Phase 31)
+  Mapping Optimization (Phase 32)
+  Mapping Optimization (Phase 33)
+
+   ELAPSED            WORST NEG TOTAL NEG  DESIGN                            
+    TIME      AREA      SLACK     SLACK   RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:19:33 1469054.1    143.47  795682.6   17928.5                          
+    0:19:33 1469054.1    143.47  795682.6   17928.5                          
+    0:19:35 1468083.3    143.46  714225.5   17202.0                          
+    0:19:35 1465887.1    143.46  713703.0   15479.8                          
+    0:19:37 1481893.1    143.44  683644.0    8617.7                          
+    0:19:38 1488026.9    143.44  681885.1    6991.0                          
+    0:19:41 1492254.4    143.44  681773.4    4916.1                          
+    0:19:43 1497168.1    143.44  647508.0    3111.2                          
+    0:19:46 1509022.0    143.44  597461.3    2843.7                          
+    0:19:48 1526284.1    143.44  587934.4    2592.6                          
+    0:19:51 1538930.8    143.44  587934.4    1878.6                          
+    0:20:34 1664703.4     39.43  481089.3     182.9                          
+
+  Beginning Delay Optimization Phase
+  ----------------------------------
+
+   ELAPSED            WORST NEG TOTAL NEG  DESIGN                            
+    TIME      AREA      SLACK     SLACK   RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:20:34 1664703.4     39.43  481089.3     182.9                          
+    0:20:57 1830862.3     38.78  415585.8     243.9 writebk/ldViolationPacket_reg[2]/D
+    0:20:57 1830891.6     38.66  415570.0     243.9 writebk/ldViolationPacket_reg[2]/D
+    0:20:58 1830711.8     38.26  415556.6     243.9 writebk/ldViolationPacket_reg[2]/D
+    0:20:59 1830420.5     37.83  410713.0     243.9 writebk/ldViolationPacket_reg[2]/D
+    0:20:59 1830208.5     37.48  410689.2     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:00 1830207.5     37.33  410684.7     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:00 1830165.6     37.21  410671.3     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:00 1830056.2     37.02  410662.0     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:01 1829918.8     36.87  410641.4     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:01 1830096.2     36.70  410628.2     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:01 1829588.3     36.48  410613.6     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:02 1829566.8     36.34  410609.8     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:02 1829505.2     36.22  410599.6     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:02 1829630.0     36.12  410595.1     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:03 1829252.8     35.95  410582.2     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:03 1829317.0     35.76  409925.7     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:03 1829122.6     35.61  409901.6     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:04 1829162.3     35.61  409899.0     243.7 instBuf/instBuffer/we1_i 
+    0:21:05 1829115.7     35.61  409858.1     243.7 lsu/U12828/IN3           
+    0:21:05 1828953.1     35.56  409814.5     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:06 1829056.4     35.17  408357.2     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:07 1829073.4     34.96  408338.8     243.7 lsu/precedingSTvalid_reg[23]/D
+    0:21:07 1829152.6     34.80  408192.3     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:08 1829116.4     34.71  407855.1     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:08 1829134.8     34.65  407845.5     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:08 1829183.4     34.51  407837.2     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:09 1829025.8     34.48  407835.0     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:09 1829111.9     34.35  407806.8     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:10 1829119.3     34.33  407804.8     243.7 instBuf/instBuffer/we5_i 
+    0:21:10 1829141.2     34.33  407802.8     243.7 instBuf/instBuffer/we5_i 
+    0:21:11 1829138.0     34.33  408172.0     243.7 instBuf/instBuffer/we5_i 
+    0:21:11 1829199.6     34.33  408171.5     243.7 lsu/U12828/IN3           
+    0:21:11 1829214.3     34.33  408171.0     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:12 1829324.8     34.24  406624.8     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:13 1829221.9     34.13  405747.5     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:13 1829151.4     34.00  405699.5     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:14 1828980.6     33.91  405694.0     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:14 1828670.3     33.77  405338.5     243.7 writebk/ldViolationPacket_reg[0]/D
+    0:21:14 1828695.9     33.74  405338.4     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:15 1828690.4     33.68  405329.4     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:15 1828565.1     33.61  405077.1     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:15 1828610.5     33.56  405067.5     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:16 1828663.7     33.50  404774.7     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:16 1828645.9     33.45  404774.4     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:17 1828650.1     33.42  403810.8     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:17 1828721.7     33.37  403806.5     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:17 1828717.8     33.33  403804.4     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:18 1828751.2     33.33  403804.8     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:18 1828571.7     33.30  403801.3     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:19 1828634.4     33.23  403789.8     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:19 1828695.1     33.18  403789.4     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:19 1828587.3     33.12  403694.3     243.7 writebk/lsuPacket0_reg[14]/D
+    0:21:20 1828693.8     33.05  403693.8     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:20 1828681.4     33.01  403693.5     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:21 1828788.6     32.94  403693.2     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:21 1828786.2     32.94  403692.9     243.7 lsu/U12828/IN3           
+    0:21:21 1828811.0     32.94  403692.3     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:22 1828753.8     32.85  403677.5     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:22 1828810.0     32.79  403676.9     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:23 1828832.4     32.70  403673.2     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:23 1828814.4     32.67  403673.0     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:23 1828833.0     32.67  403489.7     243.7 lsu/U12828/IN3           
+    0:21:24 1828845.9     32.64  403483.2     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:24 1828929.8     32.56  400230.6     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:24 1828988.3     32.55  400230.5     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:25 1829001.3     32.52  400072.8     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:25 1829004.7     32.43  400059.8     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:26 1829043.2     32.31  399133.4     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:26 1829084.8     32.26  399133.2     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:26 1829137.3     32.26  399133.1     243.7 lsu/U12828/IN3           
+    0:21:26 1829152.0     32.26  399132.8     243.7 instBuf/instBuffer/we5_i 
+    0:21:27 1829161.5     32.26  399132.4     243.7 writebk/ldViolationPacket_reg[4]/D
+    0:21:27 1829161.5     32.26  399132.4     243.7 lsu/U12828/IN3           
+    0:21:28 1829120.2     32.26  399129.8     243.7 lsu/U12828/IN3           
+    0:21:29 1829169.5     32.20  399125.7     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:29 1829229.4     32.11  399106.1     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:29 1829281.7     32.07  399105.9     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:30 1829350.8     31.97  399080.4     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:30 1829332.8     31.97  399080.3     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:30 1829274.4     31.89  399037.3     243.7 writebk/ldViolationPacket_reg[3]/D
+    0:21:31 1829252.3     31.87  399037.1     243.7 writebk/ldViolationPacket_reg[1]/D
+    0:21:32 1829239.7     31.83  399030.8     243.7 writebk/ldViolationPacket_reg[2]/D
+    0:21:32 1829298.4     31.80  398933.4     243.7 lsu/U12828/IN3           
+    0:21:33 1829327.7     31.80  398933.0     243.7 lsu/U12828/IN3           
+    0:21:34 1829374.5     31.80  398932.8     243.7 lsu/U12828/IN3           
+    0:21:35 1829358.5     31.80  398931.8     243.7 lsu/U12828/IN3           
+    0:21:37 1829364.7     31.80  398931.6     243.7 lsu/U12828/IN3           
+    0:21:43 1829360.3     31.80  398931.1     243.7 lsu/U12828/IN3           
+    0:21:45 1829494.2     31.80  398927.8     243.7 lsu/U12829/IN3           
+    0:21:47 1829551.0     31.80  398927.0     243.7                          
+    0:21:51 1827491.6     31.80  403379.2     243.7                          
+
+
+  Beginning Design Rule Fixing  (min_capacitance)  (max_transition)  (max_capacitance)
+  ----------------------------
+
+   ELAPSED            WORST NEG TOTAL NEG  DESIGN                            
+    TIME      AREA      SLACK     SLACK   RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:21:52 1828395.0     39.45  430105.9     243.7                          
+    0:21:53 1823679.2     39.45  430104.8     221.8 dispatch/net955707       
+    0:21:54 1815824.4     39.45  430104.5     221.8 dispatch/net956819       
+    0:21:54 1807969.6     39.45  430103.8     221.8 dispatch/net957933       
+    0:21:54 1800094.5     39.45  430103.1     221.8 dispatch/net959053       
+    0:22:15 1798456.8     39.44  430097.6     221.8 activeList/r422/SUM[0]   
+    0:22:16 1798273.5     31.80  404089.7     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:22:17 1798274.7     31.79  404089.6     221.8 writebk/ldViolationPacket_reg[2]/D
+    0:22:17 1798345.0     31.74  404089.3     221.8 writebk/ldViolationPacket_reg[2]/D
+    0:22:18 1798330.7     31.68  403893.6     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:22:18 1798325.1     31.68  403893.3     221.8 instBuf/instBuffer/we6_i 
+    0:22:19 1798350.9     31.68  403893.1     221.8 lsu/U12828/IN3           
+    0:22:20 1798337.2     31.68  403892.8     221.8 lsu/U12828/IN3           
+    0:22:21 1798356.5     31.68  403890.6     221.8                          
+
+
+  Beginning Area-Recovery Phase  (max_area 0)
+  -----------------------------
+
+   ELAPSED            WORST NEG TOTAL NEG  DESIGN                            
+    TIME      AREA      SLACK     SLACK   RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:22:21 1798356.5     31.68  403890.6     221.8                          
+    0:22:22 1798356.5     31.68  403890.6     221.8                          
+    0:22:36 1722316.5     31.66  368005.7     221.8                          
+    0:22:44 1684006.5     31.63  348684.5     221.8                          
+    0:22:50 1664474.6     31.61  344220.0     221.8                          
+    0:22:53 1657120.5     31.61  341996.5     221.8                          
+    0:22:55 1653043.1     31.61  341511.0     221.8                          
+    0:22:57 1650740.3     31.61  341200.4     221.8                          
+    0:22:58 1649062.9     31.61  338689.3     221.8                          
+    0:23:00 1647517.3     31.61  338634.6     221.8                          
+    0:23:01 1646674.0     31.61  330997.7     221.8                          
+    0:23:02 1646069.9     31.61  330955.8     221.8                          
+    0:23:03 1645506.3     31.61  330954.3     221.8                          
+    0:23:03 1645065.6     31.61  330904.4     221.8                          
+    0:23:04 1644820.0     31.61  330903.5     221.8                          
+    0:23:05 1644654.6     31.61  330904.8     221.8                          
+    0:23:05 1644546.1     31.61  330896.0     221.8                          
+    0:23:05 1644546.1     31.61  330896.0     221.8                          
+    0:23:07 1641446.5     31.61  329932.0     221.8 instBuf/instBuffer/we3_i 
+    0:23:10 1641444.8     31.61  329858.6     221.8                          
+    0:23:23 1519761.4     31.61  326094.2     221.8                          
+    0:23:27 1495736.2     31.61  319868.6     221.8                          
+    0:23:30 1483911.1     31.61  318204.3     221.8                          
+    0:23:33 1478419.3     31.61  317823.3     221.8                          
+    0:23:34 1476754.9     31.61  316302.5     221.8                          
+    0:23:35 1475978.0     31.61  315885.9     221.8                          
+    0:23:35 1475721.8     31.61  315871.9     221.8                          
+    0:23:36 1450739.1     31.61  315871.9     221.8                          
+    0:23:36 1450739.1     31.61  315871.9     221.8                          
+    0:23:36 1450739.1     31.61  315871.9     221.8                          
+    0:23:38 1447628.9     31.45  314766.7     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:38 1447514.5     31.24  314765.0     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:38 1447363.6     31.05  314763.6     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:39 1447447.2     30.93  314762.8     221.8 writebk/ldViolationPacket_reg[3]/D
+    0:23:39 1447392.5     30.88  314762.7     221.8 writebk/ldViolationPacket_reg[2]/D
+    0:23:40 1447406.6     30.87  314742.6     221.8 lsu/U12828/IN3           
+    0:23:40 1447452.7     30.87  314705.6     221.8 lsu/U12828/IN3           
+    0:23:41 1447484.1     30.86  314578.7     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:42 1447155.5     30.77  314577.8     221.8 writebk/ldViolationPacket_reg[2]/D
+    0:23:42 1447198.2     30.63  314577.0     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:43 1447294.5     30.51  314576.3     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:43 1447328.6     30.51  314734.2     221.8 lsu/U12828/IN3           
+    0:23:43 1447281.4     30.51  314734.0     221.8 lsu/U12828/IN3           
+    0:23:44 1447405.8     30.46  314733.0     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:44 1447405.8     30.44  314732.9     221.8 lsu/U12828/IN3           
+    0:23:44 1447452.0     30.44  314817.3     221.8 lsu/U12828/IN3           
+    0:23:45 1447483.8     30.39  314816.9     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:45 1447507.5     30.30  314806.8     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:45 1447542.1     30.20  314806.2     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:46 1447662.6     30.12  314805.8     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:46 1447592.7     30.04  314797.2     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:46 1447458.9     30.00  314796.7     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:47 1447524.6     29.97  314796.2     221.8 lsu/U12828/IN3           
+    0:23:47 1447506.8     29.96  314796.1     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:47 1447392.3     29.93  314795.7     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:48 1447442.5     29.91  314795.6     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:48 1447488.4     29.88  314793.5     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:49 1447414.7     29.86  314793.4     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:49 1447372.7     29.81  314790.6     221.8 lsu/precedingSTvalid_reg[15]/D
+    0:23:50 1447500.7     29.52  314740.9     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:50 1447497.3     29.36  314739.9     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:50 1447341.6     29.21  314715.5     221.8 writebk/ldViolationPacket_reg[2]/D
+    0:23:51 1447321.2     29.21  314715.4     221.8 writebk/ldViolationPacket_reg[2]/D
+    0:23:51 1447288.4     29.19  314715.3     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:51 1447296.1     29.17  314715.2     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:52 1447209.5     29.07  314700.6     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:52 1447369.1     28.87  314659.7     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:52 1447346.3     28.85  314659.5     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:53 1447354.3     28.80  314659.2     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:54 1447371.6     28.73  314652.9     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:54 1447350.9     28.68  314652.6     221.8 writebk/ldViolationPacket_reg[4]/D
+    0:23:55 1447431.3     28.60  314646.1     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:55 1447359.6     28.52  314636.8     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:56 1447410.8     28.50  314633.8     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:56 1447479.5     28.44  314610.6     221.8 writebk/ldViolationPacket_reg[4]/D
+    0:23:57 1447545.5     28.32  314596.3     221.8 writebk/ldViolationPacket_reg[0]/D
+    0:23:57 1447516.9     28.31  314596.3     221.8 writebk/ldViolationPacket_reg[4]/D
+    0:23:58 1447548.4     28.29  314594.8     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:23:58 1447627.2     28.25  314587.1     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:23:59 1447736.9     28.17  314582.8     221.8 writebk/ldViolationPacket_reg[1]/D
+    0:24:01 1447812.5     28.15  316010.8     221.8 lsu/U12828/IN3           
+    0:24:03 1447809.4     28.15  316010.8     221.8                          
+    0:24:03 1447754.1     28.15  316010.8     221.8                          
+    0:24:03 1447636.5     28.15  316010.8     221.8                          
+    0:24:03 1447431.5     28.15  316010.5     221.8                          
+    0:24:04 1447326.2     28.15  316010.5     221.8                          
+    0:24:04 1447174.6     28.15  316010.5     221.8                          
+    0:24:04 1447084.6     28.15  316007.0     221.8                          
+    0:24:04 1447080.2     28.15  315977.7     221.8                          
+    0:24:05 1447011.3     28.15  315550.2     221.8                          
+    0:24:05 1447004.2     28.15  315506.0     221.8                          
+    0:24:06 1447000.3     28.15  315476.5     221.8                          
+    0:24:06 1446988.8     28.15  315408.1     221.8                          
+    0:24:07 1446982.7     28.15  315407.7     221.8                          
+    0:24:08 1446928.0     28.15  315405.2     221.8                          
+    0:24:08 1446753.3     28.15  313440.5     221.8                          
+    0:24:09 1446705.7     28.15  313320.9     221.8                          
+    0:24:10 1446624.0     28.15  313320.7     221.8                          
+    0:24:11 1446612.7     28.15  313319.7     221.8                          
+    0:24:12 1446599.3     28.15  313319.5     221.8                          
+    0:24:13 1446593.7     28.15  313319.5     221.8                          
+    0:24:14 1446353.4     28.15  313231.4     221.8                          
+    0:24:15 1445990.3     28.15  313082.9     221.8                          
+    0:24:16 1445645.6     28.15  313082.2     221.8                          
+    0:24:16 1444983.4     28.15  313083.3     221.8                          
+    0:24:17 1444361.4     28.15  313118.2     221.8                          
+    0:24:18 1444003.0     28.15  313118.1     221.8                          
+    0:24:18 1443640.6     28.15  313116.7     221.8                          
+    0:24:19 1442733.2     28.15  313117.0     221.8                          
+    0:24:19 1442366.6     28.15  313003.0     221.8                          
+    0:24:20 1441790.7     28.15  312978.4     221.8                          
+    0:24:20 1440994.1     28.15  312978.4     221.8                          
+    0:24:21 1440063.8     28.15  312977.0     221.8                          
+    0:24:22 1439904.0     28.15  312977.0     221.8                          
+    0:24:22 1439833.9     28.15  312977.0     221.8                          
+    0:24:22 1439805.4     28.15  312969.4     221.8                          
+    0:24:23 1439751.5     28.15  312945.5     221.8                          
+    0:24:24 1439668.4     28.15  312945.5     221.8                          
+    0:24:24 1439573.9     28.15  312945.3     221.8                          
+    0:24:25 1439457.0     28.15  312945.3     221.8                          
+    0:24:25 1439388.2     28.15  312945.3     221.8                          
+    0:24:25 1439315.6     28.15  312945.4     221.8                          
+    0:24:26 1439238.5     28.15  312945.4     221.8                          
+    0:24:26 1439069.4     28.15  312222.8     221.8                          
+    0:24:27 1438890.6     28.15  312745.8     221.8                          
+    0:24:28 1438671.2     28.15  312745.8     221.8                          
+    0:24:28 1438507.7     28.15  312746.0     221.8                          
+    0:24:29 1438226.2     28.15  312746.0     221.8                          
+    0:24:30 1437764.8     28.15  312746.0     221.8                          
+    0:24:30 1437497.2     28.15  312727.3     221.8                          
+    0:24:31 1437365.0     28.15  312727.1     221.8                          
+    0:24:31 1437304.9     28.15  312727.1     221.8                          
+    0:24:32 1437294.0     28.15  312725.6     221.8                          
+    0:24:32 1436869.4     28.15  312725.8     221.8                          
+    0:24:33 1436401.1     28.15  312572.4     221.8                          
+    0:24:33 1436237.6     28.15  312572.4     221.8                          
+    0:24:33 1436161.3     28.15  312572.4     221.8                          
+    0:24:34 1435797.0     28.15  312572.4     221.8                          
+    0:24:35 1435454.7     28.15  312576.4     221.8                          
+    0:24:35 1435098.3     28.15  312584.2     221.8                          
+    0:24:36 1434672.2     28.15  312584.3     221.8                          
+    0:24:36 1434548.2     28.15  312585.4     221.8                          
+    0:24:36 1434468.6     28.15  312585.4     221.8                          
+    0:24:36 1434452.3     28.15  312585.2     221.8                          
+    0:24:38 1433647.8     28.15  312585.4     221.8                          
+    0:24:39 1433520.3     28.15  312585.4     221.8                          
+    0:24:40 1433384.6     28.15  312585.4     221.8                          
+    0:24:42 1433375.8     28.15  312585.4     221.8                          
+    0:24:42 1433304.3     28.15  312585.2     221.8                          
+    0:24:43 1433260.5     28.15  312585.2     221.8                          
+    0:24:43 1433125.5     28.15  312585.2     221.8                          
+    0:24:44 1432973.6     28.15  312585.2     221.8                          
+    0:24:45 1432832.0     28.15  312577.9     221.8                          
+    0:24:46 1432645.2     28.15  312577.9     221.8                          
+    0:24:47 1432604.6     28.15  312577.7     221.8                          
+    0:24:47 1432559.9     28.15  312577.7     221.8                          
+    0:24:48 1432544.0     28.15  312577.7     221.8                          
+    0:24:49 1432540.1     28.15  312577.2     221.8                          
+    0:24:49 1432527.9     28.15  312577.2     221.8                          
+    0:24:50 1432521.2     28.15  312577.2     221.8                          
+    0:24:51 1432473.3     28.15  312577.2     221.8                          
+    0:24:51 1432334.3     28.15  312577.2     221.8                          
+    0:24:52 1432199.9     28.15  312560.3     221.8                          
+    0:24:53 1432156.3     28.15  312560.3     221.8                          
+    0:24:54 1432080.0     28.15  312560.3     221.8                          
+    0:24:54 1432037.9     28.15  312560.3     221.8                          
+    0:24:55 1431998.7     28.15  312560.3     221.8                          
+    0:24:56 1431813.0     28.15  312560.3     221.8                          
+    0:24:56 1431534.4     28.15  312560.3     221.8                          
+    0:24:56 1431528.6     28.15  312560.3     221.8                          
+    0:24:57 1431462.9     28.15  312751.6     221.8                          
+    0:24:57 1431462.6     28.15  312751.6     221.8                          
+    0:24:58 1431391.7     28.15  312749.9     221.8                          
+    0:24:58 1431355.9     28.15  312750.0     221.8                          
+    0:24:59 1431252.3     28.15  312750.0     221.8                          
+    0:25:01 1431237.5     28.15  312750.0     221.8                          
+    0:25:04 1429690.1     28.15  312308.6     221.8                          
+    0:25:04 1429531.6     28.15  312254.5     221.8                          
+    0:25:05 1429459.7     28.15  312254.5     221.8                          
+    0:25:05 1429454.2     28.15  312254.5     221.8                          
+    0:25:05 1429454.2     28.15  312254.5     221.8                          
+    0:25:05 1429454.2     28.15  312254.5     221.8                          
+    0:25:05 1429454.2     28.15  312254.5     221.8                          
+    0:25:05 1429454.2     28.15  312254.5     221.8                          
+    0:25:06 1429249.1     28.06  312248.8     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:25:06 1429311.0     27.99  312243.9     221.8 writebk/ldViolationPacket_reg[0]/D
+    0:25:07 1429346.8     27.89  312233.1     221.8 writebk/ldViolationPacket_reg[0]/D
+    0:25:07 1429432.1     27.83  312227.5     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:25:08 1429499.6     27.82  312227.5     221.8 lsu/U12828/IN3           
+    0:25:08 1429668.4     27.78  312216.0     221.8 writebk/ldViolationPacket_reg[0]/D
+    0:25:09 1429663.9     27.77  312216.0     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:25:09 1429769.3     27.64  312213.9     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:25:10 1429805.4     27.50  312198.2     221.8 lsu/precedingSTvalid_reg[7]/D
+    0:25:12 1429918.3     27.41  312191.0     221.8 writebk/ldViolationPacket_reg[5]/D
+    0:25:14 1429888.5     27.24  309051.1     221.8                          
+    0:25:15 1429852.0     27.24  309051.1     221.8                          
+    0:25:15 1429836.6     27.24  309051.1     221.8                          
+    0:25:15 1429783.0     27.23  309051.1     221.8                          
+    0:25:16 1429666.9     27.22  309051.0     221.8                          
+    0:25:16 1429609.7     27.22  309046.7     221.8                          
+    0:25:18 1429589.3     27.22  309045.0     221.8                          
+    0:25:19 1429563.8     27.22  309045.0     221.8                          
+    0:25:24 1429571.1     27.21  309044.8     221.8                          
+    0:25:24 1429718.8     27.16  309036.8     221.8                          
+    0:25:24 1429819.9     27.15  309036.7     221.8                          
+    0:25:29 1429915.0     27.09  303719.0     221.8 lsu/U12828/IN3           
+    0:25:29 1429932.8     27.09  303887.2     221.8 lsu/U12828/IN3           
+    0:25:35 1429955.9     27.09  303878.8     221.8                          
+Loading db file '/research/brg/install/bare-pkgs/noarch/synopsys-90nm/toolflow/cells.db'
+
+  Optimization Complete
+  ---------------------
+Warning: Design 'FABSCALAR' contains 1 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+     Net 'fs1/btb/clk': 11848 load(s), 1 driver(s), 24 inout(s)
+1

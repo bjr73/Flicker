@@ -1,0 +1,336 @@
+(dbSetEEQByLoc "SRAM16x64" "WEB2" '(
+		( ("m" "M3" 0 35135))
+		( ("m" "M2" 0 35135))
+		))
+(dbSetEEQByLoc "SRAM16x64" "WEB1" '(
+		( ("m" "M3" 154430 34065))
+		( ("m" "M2" 154430 34065))
+		))
+(dbSetEEQByLoc "SRAM16x64" "OEB2" '(
+		( ("m" "M3" 26615 0))
+		( ("m" "M2" 26615 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "OEB1" '(
+		( ("m" "M3" 131235 0))
+		( ("m" "M2" 131235 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[9]" '(
+		( ("m" "M3" 51905 0))
+		( ("m" "M2" 51905 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[8]" '(
+		( ("m" "M3" 52290 0))
+		( ("m" "M2" 52290 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[7]" '(
+		( ("m" "M3" 36965 0))
+		( ("m" "M2" 36965 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[6]" '(
+		( ("m" "M3" 37505 0))
+		( ("m" "M2" 37505 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[5]" '(
+		( ("m" "M3" 37840 0))
+		( ("m" "M2" 37840 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[4]" '(
+		( ("m" "M3" 38195 0))
+		( ("m" "M2" 38195 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[3]" '(
+		( ("m" "M3" 22855 0))
+		( ("m" "M2" 22855 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[2]" '(
+		( ("m" "M3" 23290 0))
+		( ("m" "M2" 23290 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[1]" '(
+		( ("m" "M3" 23625 0))
+		( ("m" "M2" 23625 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[15]" '(
+		( ("m" "M3" 65130 0))
+		( ("m" "M2" 65130 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[14]" '(
+		( ("m" "M3" 65480 0))
+		( ("m" "M2" 65480 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[13]" '(
+		( ("m" "M3" 65840 0))
+		( ("m" "M2" 65840 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[12]" '(
+		( ("m" "M3" 66295 0))
+		( ("m" "M2" 66295 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[11]" '(
+		( ("m" "M3" 50995 0))
+		( ("m" "M2" 50995 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[10]" '(
+		( ("m" "M3" 51480 0))
+		( ("m" "M2" 51480 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O2[0]" '(
+		( ("m" "M3" 23955 0))
+		( ("m" "M2" 23955 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[9]" '(
+		( ("m" "M3" 120010 0))
+		( ("m" "M2" 120010 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[8]" '(
+		( ("m" "M3" 119655 0))
+		( ("m" "M2" 119655 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[7]" '(
+		( ("m" "M3" 106855 0))
+		( ("m" "M2" 106855 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[6]" '(
+		( ("m" "M3" 106370 0))
+		( ("m" "M2" 106370 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[5]" '(
+		( ("m" "M3" 105945 0))
+		( ("m" "M2" 105945 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[4]" '(
+		( ("m" "M3" 105560 0))
+		( ("m" "M2" 105560 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[3]" '(
+		( ("m" "M3" 92720 0))
+		( ("m" "M2" 92720 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[2]" '(
+		( ("m" "M3" 92370 0))
+		( ("m" "M2" 92370 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[1]" '(
+		( ("m" "M3" 92010 0))
+		( ("m" "M2" 92010 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[15]" '(
+		( ("m" "M3" 134995 0))
+		( ("m" "M2" 134995 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[14]" '(
+		( ("m" "M3" 134560 0))
+		( ("m" "M2" 134560 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[13]" '(
+		( ("m" "M3" 134225 0))
+		( ("m" "M2" 134225 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[12]" '(
+		( ("m" "M3" 133895 0))
+		( ("m" "M2" 133895 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[11]" '(
+		( ("m" "M3" 120885 0))
+		( ("m" "M2" 120885 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[10]" '(
+		( ("m" "M3" 120345 0))
+		( ("m" "M2" 120345 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "O1[0]" '(
+		( ("m" "M3" 91555 0))
+		( ("m" "M2" 91555 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[9]" '(
+		( ("m" "M3" 56655 0))
+		( ("m" "M2" 56655 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[8]" '(
+		( ("m" "M3" 56335 0))
+		( ("m" "M2" 56335 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[7]" '(
+		( ("m" "M3" 43505 0))
+		( ("m" "M2" 43505 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[6]" '(
+		( ("m" "M3" 42895 0))
+		( ("m" "M2" 42895 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[5]" '(
+		( ("m" "M3" 42575 0))
+		( ("m" "M2" 42575 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[4]" '(
+		( ("m" "M3" 42255 0))
+		( ("m" "M2" 42255 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[3]" '(
+		( ("m" "M3" 29425 0))
+		( ("m" "M2" 29425 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[2]" '(
+		( ("m" "M3" 28815 0))
+		( ("m" "M2" 28815 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[1]" '(
+		( ("m" "M3" 28495 0))
+		( ("m" "M2" 28495 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[15]" '(
+		( ("m" "M3" 71665 0))
+		( ("m" "M2" 71665 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[14]" '(
+		( ("m" "M3" 71055 0))
+		( ("m" "M2" 71055 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[13]" '(
+		( ("m" "M3" 70735 0))
+		( ("m" "M2" 70735 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[12]" '(
+		( ("m" "M3" 70415 0))
+		( ("m" "M2" 70415 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[11]" '(
+		( ("m" "M3" 57585 0))
+		( ("m" "M2" 57585 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[10]" '(
+		( ("m" "M3" 56975 0))
+		( ("m" "M2" 56975 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I2[0]" '(
+		( ("m" "M3" 28175 0))
+		( ("m" "M2" 28175 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[9]" '(
+		( ("m" "M3" 115275 0))
+		( ("m" "M2" 115275 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[8]" '(
+		( ("m" "M3" 115595 0))
+		( ("m" "M2" 115595 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[7]" '(
+		( ("m" "M3" 100265 0))
+		( ("m" "M2" 100265 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[6]" '(
+		( ("m" "M3" 100875 0))
+		( ("m" "M2" 100875 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[5]" '(
+		( ("m" "M3" 101195 0))
+		( ("m" "M2" 101195 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[4]" '(
+		( ("m" "M3" 101515 0))
+		( ("m" "M2" 101515 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[3]" '(
+		( ("m" "M3" 86185 0))
+		( ("m" "M2" 86185 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[2]" '(
+		( ("m" "M3" 86795 0))
+		( ("m" "M2" 86795 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[1]" '(
+		( ("m" "M3" 87115 0))
+		( ("m" "M2" 87115 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[15]" '(
+		( ("m" "M3" 128425 0))
+		( ("m" "M2" 128425 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[14]" '(
+		( ("m" "M3" 129035 0))
+		( ("m" "M2" 129035 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[13]" '(
+		( ("m" "M3" 129355 0))
+		( ("m" "M2" 129355 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[12]" '(
+		( ("m" "M3" 129675 0))
+		( ("m" "M2" 129675 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[11]" '(
+		( ("m" "M3" 114345 0))
+		( ("m" "M2" 114345 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[10]" '(
+		( ("m" "M3" 114955 0))
+		( ("m" "M2" 114955 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "I1[0]" '(
+		( ("m" "M3" 87435 0))
+		( ("m" "M2" 87435 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "CSB2" '(
+		( ("m" "M3" 21930 0))
+		( ("m" "M2" 21930 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "CSB1" '(
+		( ("m" "M3" 135920 0))
+		( ("m" "M2" 135920 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "CE2" '(
+		( ("m" "M3" 19330 0))
+		( ("m" "M2" 19330 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "CE1" '(
+		( ("m" "M3" 138520 0))
+		( ("m" "M2" 138520 0))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A2[5]" '(
+		( ("m" "M3" 0 96735))
+		( ("m" "M2" 0 96735))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A2[4]" '(
+		( ("m" "M3" 0 99960))
+		( ("m" "M2" 0 99960))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A2[3]" '(
+		( ("m" "M3" 0 102540))
+		( ("m" "M2" 0 102540))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A2[2]" '(
+		( ("m" "M3" 0 105755))
+		( ("m" "M2" 0 105755))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A2[1]" '(
+		( ("m" "M3" 0 108255))
+		( ("m" "M2" 0 108255))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A2[0]" '(
+		( ("m" "M3" 0 111460))
+		( ("m" "M2" 0 111460))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A1[5]" '(
+		( ("m" "M3" 154430 96750))
+		( ("m" "M2" 154430 96750))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A1[4]" '(
+		( ("m" "M3" 154430 99960))
+		( ("m" "M2" 154430 99960))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A1[3]" '(
+		( ("m" "M3" 154430 102540))
+		( ("m" "M2" 154430 102540))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A1[2]" '(
+		( ("m" "M3" 154430 105755))
+		( ("m" "M2" 154430 105755))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A1[1]" '(
+		( ("m" "M3" 154430 108255))
+		( ("m" "M2" 154430 108255))
+		))
+(dbSetEEQByLoc "SRAM16x64" "A1[0]" '(
+		( ("m" "M3" 154315 111460))
+		( ("m" "M2" 154315 111460))
+		))

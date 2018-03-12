@@ -1,0 +1,141 @@
+Information: Building the design 'L1ICache'. (HDL-193)
+Warning: Cannot find the design 'L1ICache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R8W' instantiated from design 'InstructionBuffer' with
+	the parameters "32,5,126". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R8W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_6R4W_PAYLOAD' instantiated from design 'IssueQueue' with
+	the parameters "32,5,129". (HDL-193)
+Warning: Cannot find the design 'SRAM_6R4W_PAYLOAD' in the library 'WORK'. (LBR-1)
+Information: Building the design 'CAM_6R4W' instantiated from design 'IssueQueue' with
+	the parameters "32,5,7". (HDL-193)
+Warning: Cannot find the design 'CAM_6R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_12R6W_PIPE' instantiated from design 'RegRead' with
+	the parameters "96,7,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_12R6W_PIPE' in the library 'WORK'. (LBR-1)
+Information: Building the design 'L1DataCache'. (HDL-193)
+Warning: Cannot find the design 'L1DataCache' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,55". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R6W' instantiated from design 'ActiveList' with
+	the parameters "64,6,8". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R6W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R6W' instantiated from design 'ActiveList' with
+	the parameters "64,6,32". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R6W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W' instantiated from design 'ActiveList' with
+	the parameters "64,6,1". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_AMT' instantiated from design 'ArchMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_AMT' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,17". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_1R1W' instantiated from design 'BTB' with
+	the parameters "1024,10,35". (HDL-193)
+Warning: Cannot find the design 'SRAM_1R1W' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_2R1W_HY' instantiated from design 'BranchPrediction' with
+	the parameters "32768,15,2,4,2". (HDL-193)
+Warning: Cannot find the design 'SRAM_2R1W_HY' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_4R4W_FREELIST' instantiated from design 'SpecFreeList' with
+	the parameters "62,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_4R4W_FREELIST' in the library 'WORK'. (LBR-1)
+Information: Building the design 'SRAM_8R4W_RMT' instantiated from design 'RenameMapTable' with
+	the parameters "34,6,7". (HDL-193)
+Warning: Cannot find the design 'SRAM_8R4W_RMT' in the library 'WORK'. (LBR-1)
+Warning: Unable to resolve reference 'L1ICache' in 'FetchStage1'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R8W' in 'InstructionBuffer'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_6R4W_PAYLOAD' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'CAM_6R4W' in 'IssueQueue'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_12R6W_PIPE' in 'RegRead'. (LINK-5)
+Warning: Unable to resolve reference 'L1DataCache' in 'LSU'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W' in 'ActiveList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R6W' in 'ActiveList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_AMT' in 'ArchMapTable'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_1R1W' in 'BTB'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_2R1W_HY' in 'BranchPrediction'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_4R4W_FREELIST' in 'SpecFreeList'. (LINK-5)
+Warning: Unable to resolve reference 'SRAM_8R4W_RMT' in 'RenameMapTable'. (LINK-5)
+Information: Updating design information... (UID-85)
+Warning: Design 'FABSCALAR' contains 1 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+ 
+****************************************
+Report : qor
+Design : FABSCALAR
+Version: F-2011.09-SP3
+Date   : Mon Apr  6 20:43:30 2015
+****************************************
+
+
+  Timing Path Group 'clock'
+  -----------------------------------
+  Levels of Logic:           111.0000
+  Critical Path Length:       99.8809
+  Critical Path Slack:         0.0417
+  Critical Path Clk Period:  100.0000
+  Total Negative Slack:        0.0000
+  No. of Violating Paths:      0.0000
+  Worst Hold Violation:        0.0000
+  Total Hold Violation:        0.0000
+  No. of Hold Violations:      0.0000
+  -----------------------------------
+
+  Timing Path Group 'default'
+  -----------------------------------
+  Levels of Logic:            34.0000
+  Critical Path Length:       33.5144
+  Critical Path Slack:        65.9956
+  Critical Path Clk Period:       n/a
+  Total Negative Slack:        0.0000
+  No. of Violating Paths:      0.0000
+  Worst Hold Violation:        0.0000
+  Total Hold Violation:        0.0000
+  No. of Hold Violations:      0.0000
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:        162
+  Hierarchical Port Count:      40000
+  Leaf Cell Count:              98469
+  Buf/Inv Cell Count:           14845
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     85103
+  Sequential Cell Count:        13366
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:     846610.3322
+  Noncombinational Area:  329976.1126
+  Net Area:               234475.5428
+  -----------------------------------
+  Cell Area:             1176586.4448
+  Design Area:           1411061.9876
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:        109483
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+  Hostname: brg-01.ece.cornell.edu
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                 22.5156
+  Logic Optimization:              296.6367
+  Mapping Optimization:            152.6818
+  -----------------------------------------
+  Overall Compile Time:            514.9757
+  Overall Compile Wall Clock Time: 516.4303
+
+1

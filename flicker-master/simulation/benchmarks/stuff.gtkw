@@ -1,0 +1,128 @@
+[*]
+[*] GTKWave Analyzer v3.3.39 (w)1999-2012 BSI
+[*] Mon Apr 21 20:31:54 2014
+[*]
+[dumpfile] "/home/student/wg79/repos/flicker2/FabScalar/simulation/benchmarks/bzip/results/dump.vcd"
+[dumpfile_mtime] "Mon Apr 21 19:30:54 2014"
+[dumpfile_size] 118803689
+[savefile] "/home/student/wg79/repos/flicker2/FabScalar/simulation/benchmarks/stuff.gtkw"
+[timestart] 15677400
+[size] 1920 1017
+[pos] -165 -165
+*-15.714462 15811500 194199510400 194200227700 194199540400 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] simulate.
+[treeopen] simulate.fabScalar.
+[treeopen] simulate.fabScalar.activeList.
+[treeopen] simulate.fabScalar.decode.
+[treeopen] simulate.fabScalar.execute.
+[treeopen] simulate.fabScalar.issueq.
+[treeopen] simulate.fabScalar.issueq.issueQfreelist.
+[sst_width] 218
+[signals_width] 397
+[sst_expanded] 1
+[sst_vpaned_height] 305
+@24
+simulate.sim_count[31:0]
+@22
+simulate.fabScalar.activeList.commitCount[31:0]
+@24
+simulate.fabScalar.activeList.headAddr0[6:0]
+simulate.fabScalar.activeList.headAddr1[6:0]
+simulate.fabScalar.activeList.headAddr2[6:0]
+simulate.fabScalar.activeList.headAddr3[6:0]
+simulate.fabScalar.activeList.tailAddr0[6:0]
+simulate.fabScalar.activeList.tailAddr1[6:0]
+simulate.fabScalar.activeList.tailAddr2[6:0]
+simulate.fabScalar.activeList.tailAddr3[6:0]
+@200
+-
+@24
+simulate.fabScalar.activeList.fuAddr0[6:0]
+simulate.fabScalar.activeList.fuAddr1[6:0]
+simulate.fabScalar.activeList.fuAddr2[6:0]
+simulate.fabScalar.activeList.fuAddr3[6:0]
+simulate.fabScalar.activeList.fuAddr4[6:0]
+simulate.fabScalar.activeList.fuAddr5[6:0]
+@200
+-
+@22
+simulate.fabScalar.activeList.fuData0[7:0]
+simulate.fabScalar.activeList.fuData1[7:0]
+simulate.fabScalar.activeList.fuData2[7:0]
+simulate.fabScalar.activeList.fuData3[7:0]
+simulate.fabScalar.activeList.fuData4[7:0]
+simulate.fabScalar.activeList.fuData5[7:0]
+@200
+-
+@22
+simulate.fabScalar.activeList.ctrlAl0[7:0]
+simulate.fabScalar.activeList.ctrlAl1[7:0]
+simulate.fabScalar.activeList.ctrlAl2[7:0]
+simulate.fabScalar.activeList.ctrlAl3[7:0]
+@200
+-
+@28
+simulate.fabScalar.activeList.fuEn0
+simulate.fabScalar.activeList.fuEn1
+simulate.fabScalar.activeList.fuEn2
+simulate.fabScalar.activeList.fuEn3
+simulate.fabScalar.activeList.fuEn4
+simulate.fabScalar.activeList.fuEn5
+@200
+-
+@28
+simulate.fabScalar.activeList.backEndReady_i
+@24
+simulate.fabScalar.activeList.activeListCount[7:0]
+@200
+-
+-
+-
+@22
+simulate.fabScalar.issueq.freeEntry0[4:0]
+simulate.fabScalar.issueq.freeEntry1[4:0]
+simulate.fabScalar.issueq.freeEntry2[4:0]
+simulate.fabScalar.issueq.freeEntry3[4:0]
+@20000
+-
+@28
+simulate.fabScalar.issueq.payloadRAMwe0
+simulate.fabScalar.issueq.payloadRAMwe1
+simulate.fabScalar.issueq.payloadRAMwe2
+simulate.fabScalar.issueq.payloadRAMwe3
+simulate.fabScalar.issueq.issueqValid_normal[31:0]
+simulate.fabScalar.issueq.grantedValid0_o
+simulate.fabScalar.issueq.grantedValid1_o
+simulate.fabScalar.issueq.grantedValid2_o
+simulate.fabScalar.issueq.grantedValid3_o
+simulate.fabScalar.issueq.grantedValid4_o
+simulate.fabScalar.issueq.grantedValid5_o
+@22
+simulate.fabScalar.issueq.grantedEntry0[4:0]
+simulate.fabScalar.issueq.grantedEntry1[4:0]
+simulate.fabScalar.issueq.grantedEntry2[4:0]
+simulate.fabScalar.issueq.grantedEntry3[4:0]
+simulate.fabScalar.issueq.grantedEntry4[4:0]
+simulate.fabScalar.issueq.grantedEntry5[4:0]
+@28
+simulate.fabScalar.issueq.ctrlMispredict_i
+simulate.fabScalar.issueq.ctrlVerified_i
+@22
+simulate.fabScalar.issueq.freedEntry0[4:0]
+simulate.fabScalar.issueq.freedEntry1[4:0]
+simulate.fabScalar.issueq.freedEntry2[4:0]
+simulate.fabScalar.issueq.freedEntry3[4:0]
+simulate.fabScalar.issueq.freedEntry4[4:0]
+simulate.fabScalar.issueq.freedEntry5[4:0]
+@28
+simulate.fabScalar.issueq.freedValid0
+simulate.fabScalar.issueq.freedValid1
+simulate.fabScalar.issueq.freedValid2
+simulate.fabScalar.issueq.freedValid3
+simulate.fabScalar.issueq.freedValid4
+simulate.fabScalar.issueq.freedValid5
+simulate.fabScalar.issueq.issueQfreelist.freedValid0_o
+@22
+simulate.fabScalar.issueq.issueQfreelist.freedEntry0_o[4:0]
+[pattern_trace] 1
+[pattern_trace] 0
